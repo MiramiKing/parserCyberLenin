@@ -1,0 +1,1362 @@
+[
+    {
+        "name": "Коллекции в Java 8",
+        "year": "2014",
+        "type": "",
+        "keys": [
+            "КОЛЛЕКЦИИ",
+            "ЛИСТ",
+            "ИТЕРАЦИЯ",
+            "ЛЯМБДАВЫРАЖЕНИЕ",
+            "JAVA 8",
+            "COLLECTIONS",
+            "LIST",
+            "ITERATION",
+            "LAMBDA-EXPRESSION"
+        ],
+        "annotation": "В данной статье рассматриваются нововведения языка программирования Java 8 (методы по умолчанию в интерфейсах и функциональные интерфейсы, лямбда-выражения, пакет java.util.stream), а также их применение в коллекциях.",
+        "url": "https://cyberleninka.ru/article/n/kollektsii-v-java-8"
+    },
+    {
+        "name": "Value chain analysis of coffee industry: a case of java preanger coffee in west java, Indonesia",
+        "year": "2018",
+        "type": "AGRIS",
+        "keys": [
+            "Coffee",
+            "value chain",
+            "West Java",
+            "Java preanger"
+        ],
+        "annotation": "The main objective of this study is to identify Java Preanger coffee chain in Indonesia. Java Preanger was the first coffee from Indonesia exported to Netherland in 1711, known as a cup of Java in international market, and especially in Europe. Identifying the coffee chain processing phase from coffee crop into green bean and coffee as beverage involves many stages, starts with cultivation, harvest, post harvest and processing stage. All these process are key information for farmer to increase their product quality and market access to improve welfare.",
+        "url": "https://cyberleninka.ru/article/n/value-chain-analysis-of-coffee-industry-a-case-of-java-preanger-coffee-in-west-java-indonesia"
+    },
+    {
+        "name": "Java problem-based learning",
+        "year": "2012",
+        "type": "",
+        "keys": [
+            "učenje rešavanjem problema",
+            "elektronsko učenje",
+            "inteligentni tutorski sistemi",
+            "problem based learning",
+            "e – learning",
+            "intelligent tutoring systems."
+        ],
+        "annotation": "The paper describes the self-directed problem-based learningsystem (PBL) named Java PBL. The expert module is the kernel of JavaPBL. It involves a specific domain model, a problem generator anda solution generator. The overall system architecture is represented inthe paper. Java PBL can act as the stand-alone system, but it is alsodesigned to provide support to learning management systems (LMSs).This is provided by a modular design of the system. An LMS can offerthe declarative knowledge only. Java PBL offers the procedural knowledgeand the progress of the learner programming skills. The free navigation,unlimited numbers of problems and recommendations representthe main pedagogical strategies and tactics implemented into thesystem.",
+        "url": "https://cyberleninka.ru/article/n/java-problem-based-learning"
+    },
+    {
+        "name": "Об одном криптографическом расширении Java",
+        "year": "2009",
+        "type": "",
+        "keys": [
+            "КРИПТОГРАФИЧЕСКИЕ АЛГОРИТМЫ",
+            "ТЕХНОЛОГИЯ JAVA",
+            "CRYPTOGRAPHIC ALGORITHMS",
+            "JAVA TECHNOLOGY"
+        ],
+        "annotation": "В статье рассматриваются особенности JCE-библиотеки Bouncycastle. Приводится краткое описание пакетов, входящих в библиотеку Bouncycastle, и пример программы, использующей алгоритм AES для шифрования байтового массива.",
+        "url": "https://cyberleninka.ru/article/n/ob-odnom-kriptograficheskom-rasshirenii-java"
+    },
+    {
+        "name": "Безопасность виртуальной машины JAVA",
+        "year": "2004",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/bezopasnost-virtualnoy-mashiny-java"
+    },
+    {
+        "name": "Безопасность виртуальной машины java",
+        "year": "2004",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/bezopasnost-virtualnoy-mashiny-java-1"
+    },
+    {
+        "name": "Высокоуровневый Haskell Java интерфейс",
+        "year": "2007",
+        "type": "ScopusВАКRSCIESCI",
+        "keys": [],
+        "annotation": "Построен высокоуровневый механизм для обращений к виртуальной машине Java из Haskell программы. Java вызовы представлены в виде вычислений в специальной монаде. Предложен способ вызова функций с переменным числом аргументов естественным образом, как обычных Haskell функций.",
+        "url": "https://cyberleninka.ru/article/n/vysokourovnevyy-haskell-java-interfeys-1"
+    },
+    {
+        "name": "Обработка XML-документов в Java ee",
+        "year": "2013",
+        "type": "ВАКAGRIS",
+        "keys": [
+            "БАЗА ДАННЫХ",
+            "ВЕБ-ПРИЛОЖЕНИЕ",
+            "СЕРВЕР",
+            "XML",
+            "DATA BASE",
+            "WEB-APPLICATION",
+            "SERVER"
+        ],
+        "annotation": "Приводятся рецепты программирования обработки XML-документов в веб-приложениях Java EE на сервере Glassfish v3",
+        "url": "https://cyberleninka.ru/article/n/obrabotka-xml-dokumentov-v-java-ee"
+    },
+    {
+        "name": "Графический пользовательский интерфейс на Java",
+        "year": "2016",
+        "type": "",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/graficheskiy-polzovatelskiy-interfeys-na-java"
+    },
+    {
+        "name": "Подход к проведению динамического анализа Java-программ методом модификации виртуальной машины Java",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "ДИНАМИЧЕСКИЙ АНАЛИЗ ПРОГРАММ",
+            "ПРОФИЛИРОВАНИЕ ПАМЯТИ",
+            "JAVA",
+            "ANDROID",
+            "DYNAMIC PROGRAM ANALYSIS",
+            "MEMORY PROFILING"
+        ],
+        "annotation": "Данная статья посвящена вопросам проведения анализа программ интерпретируемых языков программирования. В качестве целевой задачи рассматривается автоматический сбор и обработка статистики использования динамической памяти при выполнении приложений операционной системы Android на виртуальной машине Dalvik. Рассматриваются основные свойства виртуальной машины Dalvik (организация работы с кучей, протоколы отладки) и описывается ряд возможных модификаций Dalvik, позволяющих проводить сбор информации о выполнении программы. Статья завершается обзором результатов применения использованной модифицированной версии Dalvik для анализа ряда стандартных приложений Android.",
+        "url": "https://cyberleninka.ru/article/n/podhod-k-provedeniyu-dinamicheskogo-analiza-java-programm-metodom-modifikatsii-virtualnoy-mashiny-java"
+    },
+    {
+        "name": "Подход к проведению динамического анализа Java-программ методом модификации виртуальной машины Java",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "ДИНАМИЧЕСКИЙ АНАЛИЗ",
+            "СОСТОЯНИЯ ГОНКИ",
+            "ОШИБКИ СИНХРОНИЗАЦИИ",
+            "DYNAMIC ANALYSIS",
+            "RACE CONDITION",
+            "SYNCHRONIZATION DEFECTS"
+        ],
+        "annotation": "В статье рассматривается подход к поиску состояний гонки в многопоточных программах на языке Java при помощи динамического анализа. Преимущества динамического анализа заключаются в отсутствии ложных срабатываний при определённых ограничениях, накладываемых на анализируемую программу. Для проведения анализа используется статическая инструментация байт-кода языка Java при помощи инструмента Coffee Machine, что позволяет избежать накладных расходов, связанных с внедрением инструментационного кода в ходе выполнения программы и проводить анализ программ на виртуальных машинах, не предоставляющих интерфейс для динамической инструментации. Инструментируются инструкции доступа к памяти, вызова методов, работы с потоками и мониторами. Поиск ошибок осуществляется при помощи инструмента ThreadSanitizer Offline на основе построения отношений предшествования на множестве событий, собранных в ходе выполнения программы, и построения множеств блокировок. Наличие связи с исходным кодом для проведения анализа не является необходимым, однако это позволяет более точно определить причины возникновения ошибки. Реализация была проверена на ряде проектов с открытым исходным кодом и продемонстрировала свою эффективность для поиска состояний гонки.",
+        "url": "https://cyberleninka.ru/article/n/podhod-k-provedeniyu-dinamicheskogo-analiza-java-programm-metodom-modifikatsii-virtualnoy-mashiny-java-1"
+    },
+    {
+        "name": "Подготовка разработчиков корпоративных Java-приложений в режиме дистанционного обучения",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "ОБРАЗОВАНИЕ",
+            "JAVA",
+            "IT"
+        ],
+        "annotation": "В статье дается краткое описание комплексной программы дополнительного образования (переквалификации), ориентированной на подготовку разработчиков корпоративных Java-приложений, а также процесса ее реализации. Программа реализуется факультетом ВМК МГУ в режиме дистанционного обучения. Успешное окончание данной программы позволяет получить ее слушателям дополнительную квалификацию разработчика компьютерных технологий к диплому о высшем образовании. Квалификация подтверждается дипломом МГУ о дополнительной квалификации к базовому образованию. Программа представляет наибольший интерес для тех, кто получив высшее образование по невостребованной на рынке труда профессии (например, инженеры, технологи, бакалавры по направлениям естествознания, педагоги и пр.), желал бы переквалифицироваться в ИТ-профессионала, спрос на которых продолжает расти.",
+        "url": "https://cyberleninka.ru/article/n/podgotovka-razrabotchikov-korporativnyh-java-prilozheniy-v-rezhime-distantsionnogo-obucheniya"
+    },
+    {
+        "name": "Язык обработки графов на базе Java",
+        "year": "2005",
+        "type": "",
+        "keys": [
+            "ЭЛЕКТРОННЫЙ ДОКУМЕНТООБОРОТ",
+            "ПРОЦЕССНОЕ УПРАВЛЕНИЕ",
+            "ГРАФОВАЯ МОДЕЛЬ",
+            "JAVA",
+            "DOCFLOW",
+            "WORKFLOW",
+            "GRAPH MODEL"
+        ],
+        "annotation": "В статье рассмотрен я зык, позволяющий описывать процессы композитного документооборота. Основой для языка послужила графовая модель документооборота. Язык использован для создания системы проектирования и исполнения процессов документооборота.",
+        "url": "https://cyberleninka.ru/article/n/yazyk-obrabotki-grafov-na-baze-java"
+    },
+    {
+        "name": "Использование Java-технологии в интернет-приложениях",
+        "year": "2000",
+        "type": "WOS",
+        "keys": [],
+        "annotation": "Рассматриваются Java-технологии как инструмент для создания и поддержания Интернет-проектов. Основное внимание уделяется использованию Java в серверной части программных продуктов. Приведен пример создания Интернетпредставительства на основе Java-сервера JServ.",
+        "url": "https://cyberleninka.ru/article/n/ispolzovanie-java-tehnologii-v-internet-prilozheniyah"
+    },
+    {
+        "name": "Библиотека LibGDX на языке программирования Java",
+        "year": "2015",
+        "type": "",
+        "keys": [
+            "java",
+            "startup",
+            "the game loop",
+            "process input",
+            "update",
+            "render",
+            "shutdown"
+        ],
+        "annotation": "В статье предлагаются основные сведения о библиотеке LibGDX, основные этапы и стадии.",
+        "url": "https://cyberleninka.ru/article/n/biblioteka-libgdx-na-yazyke-programmirovaniya-java"
+    },
+    {
+        "name": "Сравнение быстродействия Java на микрокомпьютере Raspberry Pi",
+        "year": "2015",
+        "type": "",
+        "keys": [
+            "МИКРОКОМПЬЮТЕР",
+            "СРАВНЕНИЯ БЫСТРОДЕЙСТВИЯ",
+            "МіКРОКОМП'ЮТЕР",
+            "ПОРіВНЯННЯ ШВИДКОДії",
+            "RASPBERRY PI",
+            "JAVA",
+            "MICROCOMPUTER",
+            "COMPARING PERFORMANCE",
+            "ORACLE JAVA",
+            "OPENJDK"
+        ],
+        "annotation": "При работе с высокоуровневым языком программирования на микрокомпьютере важным является скорость выполнения определенного набора инструкций. Для определения быстродействия Java на микрокомпьютере Raspberry Pi применен метод сравнения времен выполнения двух функционально отличных программ на разных версиях виртуальной машины Java. Реализована программа современного быстрого алгоритма поиска простых чисел до заданного целого числа N (решето Аткина) и программа для выполнения элементарных операций над числами с плавающей точкой.",
+        "url": "https://cyberleninka.ru/article/n/sravnenie-bystrodeystviya-java-na-mikrokompyutere-raspberry-pi"
+    },
+    {
+        "name": "Java-технология: история, состояние и перспективы",
+        "year": "2003",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "Дано краткое введение в Java-технологию одно из наиболее популярных направлений развития современного программирования. Рассмотрены ее история, основные понятия, современное состояние, проблемы и перспективы. Даны ссылки на литературу для дальнейшего изучения.",
+        "url": "https://cyberleninka.ru/article/n/java-tehnologiya-istoriya-sostoyanie-i-perspektivy"
+    },
+    {
+        "name": "Geo Messages для Java телефонов",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "В данной статье рассматриваются методы получения географических координат для мобильных устройств, их практическое применение, а также новый в Location Based Services (службах, основанных на определении текущего местоположения) подход «Geo Messages», позволяющий обмениваться информацией о местоположении на «peer-to-peer» основе – непосредственно с заинтересованной стороной. При этом информация о местоположении оформляется в качестве подписи для сообщений Email или SMS, а информация об авторе присутствует только в самом сообщении (адрес электронной почты отправителя или номер телефона).",
+        "url": "https://cyberleninka.ru/article/n/geo-messages-dlya-java-telefonov"
+    },
+    {
+        "name": "Overview of Java application configuration frameworks",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "APLICATION CONFIGURATION MANAGEMENT",
+            "APPLICATION SETTINGS MANAGEMENT",
+            "FRAMEWORK",
+            "JAVA"
+        ],
+        "annotation": "This paper reviews three major application configuration frameworks for Java-based applications: java.util.Properties, Apache Commons Configuration and Preferences API. Basic functionality of each framework is illustrated with code examples. Pros and cons of each framework are described in moderate detail. Suggestions are made about typical use cases for each framework.",
+        "url": "https://cyberleninka.ru/article/n/overview-of-java-application-configuration-frameworks"
+    },
+    {
+        "name": "Электроджунгли. Новый конкурс по программированию на Java",
+        "year": "2006",
+        "type": "ВАК",
+        "keys": [
+            "БОРЬБА ЗА ОГРАНИЧЕННЫЙ РЕСУРС",
+            "КОНКУРС ПО ПРОГРАММИРОВАНИЮ"
+        ],
+        "annotation": "Автор рассказывает о состязании в игровом формате, которое нацелено на создание участниками алгоритмически нетривиальных программ, борющихся друг с другом за ограниченный ресурс в особом мире со строгими законами.",
+        "url": "https://cyberleninka.ru/article/n/elektrodzhungli-novyy-konkurs-po-programmirovaniyu-na-java"
+    },
+    {
+        "name": "Распределенные приложения на основе технологии Java ee",
+        "year": "2015",
+        "type": "",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/raspredelennye-prilozheniya-na-osnove-tehnologii-java-ee"
+    },
+    {
+        "name": "Разработка приложения для Android на Java",
+        "year": "2015",
+        "type": "ВАКAGRIS",
+        "keys": [
+            "ИСТОРИЯ",
+            "ПРИЛОЖЕНИЯ",
+            "ОПЕРАЦИОННАЯ СИСТЕМА ANDROID",
+            "HISTORY",
+            "APPLICATIONS",
+            "OPERATING SYSTEM ANDROID"
+        ],
+        "annotation": "В статье рассмотрена краткая история операционной системы Android. Данная платформа занимает основную долю рынка и прогнозы развития довольно оптимистичны, следовательно, написание приложений работающих на данной системы является актуальным и востребованным. Для написания кода и графического оформления описан краткий алгоритм создания приложения.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-prilozheniya-dlya-android-na-java"
+    },
+    {
+        "name": "Проблемы производительности разработки Java приложений",
+        "year": "2012",
+        "type": "ВАКAGRIS",
+        "keys": [
+            "ПРОИЗВОДИТЕЛЬНОСТЬ РАЗРАБОТКИ",
+            "JAVA",
+            "GROOVY"
+        ],
+        "annotation": "В статье рассмотрено применение скриптового языка Groovy для сокращения объёма кода с целью повышения наглядности и читаемости, а также с целью сокращения времени на разработку приложения.",
+        "url": "https://cyberleninka.ru/article/n/problemy-proizvoditelnosti-razrabotki-java-prilozheniy"
+    },
+    {
+        "name": "Rice price volatility in East Java",
+        "year": "2017",
+        "type": "AGRIS",
+        "keys": [
+            "Price",
+            "volatility",
+            "rice",
+            "market"
+        ],
+        "annotation": "The purpose of the research is analyzing the volatility and volatility spillover of monthly price of paddy at the level of farmers and consumers in 2010-2016. ARCH/GARCH used to analyze volatility and GARCH BEKK-model is used to analyze the volatility spillover. The results of the analysis show that price volatility at the farmer level is very high (extremely high volatility), price volatility at the consumer level is low (low volatility), and volatility spillover does not occur between the farmers and the consumers market. The need to guarantee an effective floor price as well as information disclosure related to the market commodity prices so that the pattern of prices transmission among interrelated markets can be symmetrical.",
+        "url": "https://cyberleninka.ru/article/n/rice-price-volatility-in-east-java"
+    },
+    {
+        "name": "Синхронизация реплик базы данных в распределенной системе",
+        "year": "2014",
+        "type": "",
+        "keys": [
+            "БАЗА ДАННЫХ",
+            "DATABASE",
+            "JAVA-СЕРВЛЕТЫ",
+            "WEB-СЕРВЕР",
+            "WEB-SERVER",
+            "JAVA-SERVLETS"
+        ],
+        "annotation": "В статье предложено решение проблемы синхронизации реплик в распределенной базе данных древовидной структуры. Вся работа в сети ведется по протоколу http. Часто используемые статические данные из базы данных загружаются в клиентскую программу при старте. Необходимость синхронизации локальной копии с центральной базой инициализируется со стороны клиента. Все изменения вносятся непосредственно в центральную базу данных.",
+        "url": "https://cyberleninka.ru/article/n/sinhronizatsiya-replik-bazy-dannyh-v-raspredelennoy-sisteme"
+    },
+    {
+        "name": "Android программирование. Начало программирования",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "АКТИВНОСТЬ",
+            "JAVA",
+            "ANDROID"
+        ],
+        "annotation": "В статье предлагается начальная часть android программирования, с чего нужно начать, активности, состояния, пути активности.",
+        "url": "https://cyberleninka.ru/article/n/android-programmirovanie-nachalo-programmirovaniya"
+    },
+    {
+        "name": "Актуальные языки программирования",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "ЯЗЫКИ ПРОГРАММИРОВАНИЯ",
+            "JAVA",
+            "C++",
+            "C#",
+            "PYTHON"
+        ],
+        "annotation": "В статье предлагается, какой язык программирования стоит выбрать для изучения. Востребованные и нужные языки программирования.",
+        "url": "https://cyberleninka.ru/article/n/aktualnye-yazyki-programmirovaniya"
+    },
+    {
+        "name": "Объектно-ориентированное программирование на примере языка Java",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "ОБЪЕКТНО-ОРИЕНТИРОВАННОЕ ПРОГРАММИРОВАНИЕ",
+            "JAVA",
+            "ПАРАДИГМЫ",
+            "ИНКАПСУЛЯЦИЯ",
+            "НАСЛЕДОВАНИЕ",
+            "ПОЛИМОРФИЗМ"
+        ],
+        "annotation": "В статье рассматриваются принципы и особенности объектно-ориентированного программирования (ООП). Освещаются три основные парадигмы ООП и приводятся примеры на языке программирования Java.",
+        "url": "https://cyberleninka.ru/article/n/obektno-orientirovannoe-programmirovanie-na-primere-yazyka-java"
+    },
+    {
+        "name": "Анализ программ на языке Java в инструменте Svace",
+        "year": "2017",
+        "type": "ВАК",
+        "keys": [
+            "СТАТИЧЕСКИЙ АНАЛИЗ",
+            "JAVA",
+            "ДЕВИРТУАЛИЗАЦИЯ",
+            "БАЙТКОД",
+            "STATIC ANALYSIS",
+            "BYTECODE",
+            "DEVIRTUALIZATION"
+        ],
+        "annotation": "В статье описываются работы, выполненные для поддержки анализа программ на языке Java в статическом анализаторе Svace, разрабатываемом в ИСП РАН. Приводятся методы построения внутреннего представления для анализа Java, включая изменения в компоненте контролируемой сборки, доработки компилятора OpenJDK, трансляцию байткода Java в окончательное представление для анализа. Описываются особенности анализа Java-программ алгоритм девиртуализации, спецификации методов стандартной библиотеки Java, некоторые специфичные детекторы. Представлены результаты выполнения анализа для исходного кода операционной системы Android 5.",
+        "url": "https://cyberleninka.ru/article/n/analiz-programm-na-yazyke-java-v-instrumente-svace"
+    },
+    {
+        "name": "Разработка сессионного контейнера серверного Java-кода",
+        "year": "2014",
+        "type": "ВАКzbMATH",
+        "keys": [
+            "сеть",
+            "программирование",
+            "сервер",
+            "клиент",
+            "сокеты",
+            "java",
+            "java",
+            "network",
+            "programming",
+            "server",
+            "client",
+            "sockets"
+        ],
+        "annotation": "В работе описана задача создания контейнера серверного кода, поддерживающего работу в режиме постоянного соединения между сервером и клиентом, а также приведены основные принципы практической реализации подобной программной технологии.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-sessionnogo-konteynera-servernogo-java-koda"
+    },
+    {
+        "name": "Дистанционная подготовка разработчиков корпоративных Java-приложений",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "ОБРАЗОВАНИЕ",
+            "JAVA",
+            "IT"
+        ],
+        "annotation": "В статье дается краткое описание комплексной программы дополнительного образования (переквалификации), ориентированной на подготовку разработчиков корпоративных Java-приложений, а также процесса ее реализации. Программа реализуется факультетом ВМК МГУ в режиме дистанционного обучения. Успешное окончание данной программы позволяет получить ее слушателям дополнительную квалификацию разработчика компьютерных технологий к диплому о высшем образовании. Квалификация подтверждается самоустанавливаемым дипломом МГУ имени М.В. Ломоносова о дополнительной квалификации к базовому образованию. Программа представляет наибольший интерес для тех, кто получив высшее образование по невостребованной на рынке труда профессии (например, инженеры, технологи, бакалавры по направлениям естествознания, педагоги и пр.), желал бы переквалифицироваться в ИТ-профессионала, спрос на которых продолжает расти.",
+        "url": "https://cyberleninka.ru/article/n/distantsionnaya-podgotovka-razrabotchikov-korporativnyh-java-prilozheniy"
+    },
+    {
+        "name": "Программный продукт «Технология защищенных сокетов java»",
+        "year": "2011",
+        "type": "",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/programmnyy-produkt-tehnologiya-zaschischennyh-soketov-java"
+    },
+    {
+        "name": "Метод проверки линеаризуемости многопоточных Java программ",
+        "year": "2009",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "В статье описывается новый метод Sapsan. Он предназначен для функционального тестирования Java программ, предоставляющих программный интерфейс (API), процедуры (операции) которого можно вызывать из нескольких потоков одновременно. Метод Sapsan позволяет проверять одно из распространенных требований к таким программам требование линеаризуемости, заключающееся в том, что параллельное выполнение операций эквивалентно некоторому последовательному выполнению этих же операций, удовлетворяющему спецификации.",
+        "url": "https://cyberleninka.ru/article/n/metod-proverki-linearizuemosti-mnogopotochnyh-java-programm"
+    },
+    {
+        "name": "Исследование java-виртуальной машины реального времени",
+        "year": "2000",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/issledovanie-java-virtualnoy-mashiny-realnogo-vremeni"
+    },
+    {
+        "name": "Акторное расширение языка Java в среде MPS",
+        "year": "2010",
+        "type": "ВАК",
+        "keys": [
+            "ACTOR MODEL",
+            "PROBLEM-ORIENTED EXTENSION",
+            "PARALLEL PROGRAMMING",
+            "LANGUAGE-ORIENTED PROGRAMMING"
+        ],
+        "annotation": "Описанное в работе акторное расширение добавляет автоматически распараллеливающиеся функциональные конструкции в универсальный язык Java. Необходимость такого расширения вызвана слабой приспособленностью языка Java к написанию параллельных программ. Акторная модель, поддерживаемая расширением, успешно применяется в функциональном языке параллельного программирования Erlang. В качестве средства создания расширения была выбрана среда мета-программирования MPS, что позволило автоматически получить интегрированные средства разработки для применения расширения и, кроме того, достичь совместимости с другими языковыми расширениями, созданными в среде MPS. Ключевые слова: акторная модель, проблемно-ориентированное расширение, параллельное программирование, языково-ориентированное программирование",
+        "url": "https://cyberleninka.ru/article/n/aktornoe-rasshirenie-yazyka-java-v-srede-mps"
+    },
+    {
+        "name": "Применение Java апплетов в дистанционных лабораторных работах",
+        "year": "2004",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/primenenie-java-appletov-v-distantsionnyh-laboratornyh-rabotah"
+    },
+    {
+        "name": "Реализация Web-контейнера Java Beans компонентов",
+        "year": "2011",
+        "type": "",
+        "keys": [],
+        "annotation": "Работа посвящена изучению Java Beans компонентов с целью создания Web-контейнера сборки их в единый апплет. Особое внимание уделяется перспективам развития данного направления. Параллельно рассматриваются особенности библиотек Hibernate и Vaadin, обеспечивающих успешную и эффективную работу готового программного решения.",
+        "url": "https://cyberleninka.ru/article/n/realizatsiya-web-konteynera-java-beans-komponentov"
+    },
+    {
+        "name": "ПОЛУЧЕНИЕ МЕТРИК JAVA-ПРИЛОЖЕНИЯ В КОНТЕЙНЕРАХ DOCKER",
+        "year": "2020",
+        "type": "ВАК",
+        "keys": [
+            "ВЕБ-ПРИЛОЖЕНИЕ",
+            "СБОР МЕТРИК",
+            "ПРОГРАММНЫЕ СРЕДСТВА ОБРАБОТКИ",
+            "АНАЛИТИКИ И ВИЗУАЛИЗАЦИИ ДАННЫХ"
+        ],
+        "annotation": "Объектами исследования являются: java-приложение с поддержкой JMX технологии; демон для сбора метрик Collectd; программный продукт для хранения временных рядов Graphite; система аналитики и визуализации данных Grafana. Актуальность разработки решения определяется тем, что в настоящее время веб-приложениям необходимо обрабатывать огромные потоки данных. Для решения этой проблемы используются высокомасштабируемые микросервисы, а для их управления контейнер Docker. Работа с Docker несколько отличается от работы с традиционными приложениями, однако в корпоративном сегменте имеется большой пласт классических наработок. Как следствие, на данный момент актуальной является разработка решения, которое будет работать с классическими решениями в контейнерах Docker. Приведено описание и особенности работы java-приложений в контейнерах Docker. Предлагается решение для сбора, хранения, обработки, анализа и визуализации метрик веб-приложений с помощью JMX, Collectd, Grafana и Graphite. Показано, как взаимодействуют между собой данные компоненты. Приведены примеры настройки java-приложения для работы с JMX, добавление плагина FastJMX в collectd, а также настройки для Grafana и Graphite. Результатом работы, описанным в статье, является система, отвечающая всем требованиям к системам для хранения и анализа больших объемов аналитических данных и имеющая все преимущества использования Docker. Полученное решение позволит сократить затраты на рабочую силу, а использование в разработке программного обеспечения с открытым исходным кодом позволяет еще больше снизить затраты на разработку и последующее использование",
+        "url": "https://cyberleninka.ru/article/n/poluchenie-metrik-java-prilozheniya-v-konteynerah-docker"
+    },
+    {
+        "name": "Обзор технологий JIT-компиляции",
+        "year": "2020",
+        "type": "ВАК",
+        "keys": [
+            "JIT КОМПИЛЯТОР",
+            "ДИНАМИЧЕСКАЯ КОМПИЛЯЦИЯ",
+            "ВИРТУАЛЬНАЯ МАШИНА JAVA",
+            "JIT COMPILER",
+            "DYNAMICAL COMPILATION",
+            "JAVA VIRTUAL MACHINE"
+        ],
+        "annotation": "Настоящий обзор посвящён принципам JIT-компиляции («just-in-time» или компиляции «на лету») программ. Кратко рассматривается история развития технологий динамической компиляции программ в разных языках программирования. Подробно рассматривается реализация технологии JIT-компиляции программ в виртуальных машинах Java. Приводится классификация JIT-компиляторов. Описывается базовая технология компиляции «на лету», её особенности и примеры её реализации в компиляторах для языка Java. Обсуждаются потенциально достижимая сложность и степень оптимизации порядка компиляции. Проводится сравнение JIT-компиляции и бинарной динамической компиляции. Уделяется внимание рискам безопасности, присущим JIT-компиляторам. В частности, анализируются уязвимости JIT-компиляторов в отношении атак внедрения и переиспользования кода. Описываются меры противодействия атакам данного типа. Даётся обзор современных принципов разработки JIT-компиляторов, в том числе с использованием методов машинного обучения.",
+        "url": "https://cyberleninka.ru/article/n/obzor-tehnologiy-jit-kompilyatsii"
+    },
+    {
+        "name": "ЗАМОНАВИЙ ТАЪЛИМДА ЎҚУВ МАТЕРИАЛЛАРНИ ВИЗУАЛЛАШТИРИШНИНГ ДАСТУРИЙ ТАЪМИНОТИ",
+        "year": "2020",
+        "type": "",
+        "keys": [
+            "визуализация",
+            "Android",
+            "Java иловалар",
+            "Java Development Kit (JDK)",
+            "Java Runtime Environment JRE",
+            "IntelliJ IDEA (IDE)",
+            "Android Studio",
+            "TheAppBuilder",
+            "AppsGeyser",
+            "AppsMakerstore",
+            "Net2Share",
+            "AppsGeyser",
+            "TheAppBuilder",
+            "Andromo.",
+            "визуализация",
+            "Android",
+            "приложения Java",
+            "Java Development Kit (JDK)",
+            "среда выполнения Java JRE",
+            "IntelliJ IDEA (IDE)",
+            "Android Studio",
+            "TheAppBuilder",
+            "AppsGeyser",
+            "AppsMakerstore",
+            "Net2Share",
+            "AppsGeyser",
+            "TheAppBuilder",
+            "Andromo."
+        ],
+        "annotation": "Ушбу мақолада замонавий ўқув материалларни намойиш этишда визуал дастурлаш тиллари ва муаллифлик дастури таъминотининг узвийлиги ишлаб чиқилган. Замонавий дастурлаш тили сифатида Java тили ва Android Studio дастурининг визуал муҳит имкониятлари ҳамда андроид иловалар яратувчи дизайнер дастур турлари, афзаллик ва зарурати келтириб ўтилган.",
+        "url": "https://cyberleninka.ru/article/n/zamonaviy-talimda-uv-materiallarni-vizuallashtirishning-dasturiy-taminoti"
+    },
+    {
+        "name": "Имитационная модель материально-технического обеспечения строительных объектов",
+        "year": "2018",
+        "type": "ВАК",
+        "keys": [
+            "ИМИТАЦИОННОЕ МОДЕЛИРОВАНИЕ",
+            "АЛГОРИТМ МОДЕЛИРОВАНИЯ",
+            "SIMULATION",
+            "ЛОГИСТИКА",
+            "МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ",
+            "LOGISTICS",
+            "ЯЗЫК JAVA",
+            "JAVA",
+            "ALGORITHM MODELING"
+        ],
+        "annotation": "В статье рассмотрен алгоритм имитационной модели материально-технического обеспечения строительных объектов на языке программирования JAVA. Данная модель решает проблему выбора рационального пути доставки стройматериалов на удаленный строительный объект по временным и стоимостным характеристикам, а также дает комплексную оценку по выбранным параметрам, а именно расположение строительного объекта согласно необходимым предпочтениям",
+        "url": "https://cyberleninka.ru/article/n/imitatsionnaya-model-materialno-tehnicheskogo-obespecheniya-stroitelnyh-obektov"
+    },
+    {
+        "name": "Моделирование и верификация архитектуры программного обеспечения, разработанного на языке Java",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ",
+            "МОДЕЛИРОВАНИЕ",
+            "ВЕРИФИКАЦИЯ",
+            "JAVA"
+        ],
+        "annotation": "В статье рассматриваются особенности реализации CASE-инструмента для моделирования свободно распространяемого программного обеспечения разработанного на языке Java. Данный инструмент предназначен для моделирования и визуализации такого программного обеспечения с помощью языка UML, верификации и рефакторинга его архитектуры. В качестве анализируемого исходного кода для такого CASE-инструмента предполагается использовать репозитории кода с унифицированной идентификаций распространяемых программных библиотек. В статье описывается контекст, в котором предполагается работа данного инструмента. Рассмотрены типовые ошибки в проектировании логической и физической структуры программного обеспечения, методы верификации и рефакторинга для исправления таких ошибок проектирования.",
+        "url": "https://cyberleninka.ru/article/n/modelirovanie-i-verifikatsiya-arhitektury-programmnogo-obespecheniya-razrabotannogo-na-yazyke-java"
+    },
+    {
+        "name": "Технология разработки информационной системы для обработки данных цифровой микроанатомии годичных колец",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "ДЕНДРОХРОНОЛОГИЯ",
+            "ИНФОРМАЦИОННАЯ СИСТЕМА",
+            "JAVA",
+            "POSTGRESQL"
+        ],
+        "annotation": "В дендрохронологии много существенных проблем, которые затрудняют исследования в данной области. Для решения этих проблем создается информационная система, о которой рассказано в данной работе.",
+        "url": "https://cyberleninka.ru/article/n/tehnologiya-razrabotki-informatsionnoy-sistemy-dlya-obrabotki-dannyh-tsifrovoy-mikroanatomii-godichnyh-kolets"
+    },
+    {
+        "name": "Начало программирования в Lego Mindstorms EV3 с использованием языка Java",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "РОБОТ",
+            "JAVA",
+            "LEGO MINDSTORMS EV3"
+        ],
+        "annotation": "В статье предлагается ознакомление с программированием в LEGO Mindstorms EV3 с помощью языка Java, как оно работает, с чего надо начинать и т. д.",
+        "url": "https://cyberleninka.ru/article/n/nachalo-programmirovaniya-v-lego-mindstorms-ev3-s-ispolzovaniem-yazyka-java"
+    },
+    {
+        "name": "РЕАЛІЗАЦІЯ ТА ДОСЛІДЖЕННЯ АЛГОРИТМУ DSA ДЛЯ СТВОРЕННЯ ТА ПЕРЕВІРКИ ЕЛЕКТРОННОГО ЦИФРОВОГО ПІДПИСУ",
+        "year": "2020",
+        "type": "",
+        "keys": [
+            "DSA",
+            "підпис",
+            "хешфункція",
+            "ключ",
+            "java",
+            "DSA",
+            "signature",
+            "hash function",
+            "key",
+            "java",
+            "DSA",
+            "подпись",
+            "хешфункция",
+            "ключ",
+            "java"
+        ],
+        "annotation": "У роботі розглянутий і реалізований алгоритм DSA для створення й перевірки електронному цифровому підпису, проведені дослідження швидкості виконання дій по створенню ключової пари, підписи і її перевірки. Для реалізації алгоритму створення використана мова програмування Java, яка має велику кількість різних бібліотек для роботи із криптографією. Програма складається із двох модулів. Один створює цифровий електронний підпис, а другий модуль забезпечує її перевірку. Програма має два варіанта роботи. Перший варіант передбачає створення ключової пари (відкритий та закритий ключ) для користувача та підписання документу за допомогою закритого ключа. Також програма реалізовує механізм перевірки автентичності підпису (чи був змінений документ після підписання). Другий варіант передбачає наявність у користувача ключової пари, у цьому випадку програма використовую закритий ключ користувача (на відміну від генерування ключів у першому варіанті). Було проведено 10000 симуляцій для дослідження швидкості створення та перевірки цифровому підпису. Час на створення підпису при використанні хеш функції SHA-1 при довжині ключа 512 біт – 409 мс, при довжині 1024 біт – 480 мс. А при використанні хеш функції SHA-2 та довжини ключа у 2048 біт – 351 мс. Така динаміка часу, що при збільшенні довжини ключа та з тим надійності підпис створюється швидше, пов’язана перш за все з використанням більш сучасного алгоритму хешування. За результатами досліду спостерігається лінійна залежність, яка показує що зі збільшенням довжини ключа збільшується час який необхідний на виконання операцій з підпису документа та її перевірки. Так, при довжині ключа у 512 біт для того аби поставити підпис під документом необхідно 4 мс, для перевірки – 8 мс. При розмірі ключа 1024 біт для підпису необхідно 8 мс, для перевірки підпису – 18 мс. Якщо розмір ключа 2048 біт, час який знадобиться на підпис документа 13 мс, для перевірки цього підпису – 33 мс.",
+        "url": "https://cyberleninka.ru/article/n/realizatsiya-ta-doslidzhennya-algoritmu-dsa-dlya-stvorennya-ta-perevirki-elektronnogo-tsifrovogo-pidpisu"
+    },
+    {
+        "name": "ИССЛЕДОВАНИЕ МЕТОДОВ ПАТТЕРНОВ В JAVA И ИХ РОЛЬ ПРИ РАЗРАБОТКЕ ПРИЛОЖЕНИЙ",
+        "year": "2021",
+        "type": "",
+        "keys": [
+            "паттерны",
+            "java",
+            "цепочка обязанностей",
+            "модернизация.",
+            "patterns",
+            "java",
+            "chain of responsibility",
+            "modernization."
+        ],
+        "annotation": "В данной статье рассматривается практическое применение различных видов паттернов в языке программирования Java, которые могут быть использованы в разработке различного программного обеспечения. Детально анализируется типы паттернов, наибольшее внимание уделено поведенческому паттерну цепочка обязанностей, предлагается усовершенствование, позволяющее систематизировать и расширять возможности данного паттерна при помощи дополнительного java класса.",
+        "url": "https://cyberleninka.ru/article/n/issledovanie-metodov-patternov-v-java-i-ih-rol-pri-razrabotke-prilozheniy"
+    },
+    {
+        "name": "Использования Java для проверки компетенций по геометрическому моделированию",
+        "year": "2018",
+        "type": "",
+        "keys": [
+            "ГЕОМЕТРИЧЕСКОЕ МОДЕЛИРОВАНИЕ",
+            "GEOMETRIC MODELING",
+            "ЭЛЕКТРОННОЕ ОБУЧЕНИЕ",
+            "ELECTRONIC EDUCATION",
+            "JAVA",
+            "АФФИННОЕ ОТОБРАЖЕНИЕ",
+            "AFFINE TRANSFORM"
+        ],
+        "annotation": "Описывается способ использования языка Java в курсе «Компьютерная геометрия и геометрическое моделирование» для проверки компетенции ОПК-4: «Способность находить, анализировать, реализовывать программно и использовать на практике математические алгоритмы, в том числе с применением современных вычислительных систем». Приводятся примеры задач для оценки уровня этой компетенции, и обсуждается, как программирование на Java может использоваться для проверки решений этих задач.",
+        "url": "https://cyberleninka.ru/article/n/ispolzovaniya-java-dlya-proverki-kompetentsiy-po-geometricheskomu-modelirovaniyu"
+    },
+    {
+        "name": "Управление настройками Java-приложений с использованием механизма аннотаций",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "ПРОГРАММИРОВАНИЕ",
+            "JAVA",
+            "БИБЛИОТЕКА",
+            "ФРЕЙМВОРК",
+            "АННОТАЦИИ",
+            "НАСТРОЙКИ"
+        ],
+        "annotation": "В статье рассматривается библиотека options-util, реализующая управление настройками времени выполнения для Java-приложений. Конфигурация свойств приложения и их отображение на источники конфигурационной информации настраивается при помощи аннотаций над специальными интерфейсами настроек, что упрощает внедрение библиотеки, гарантирует строгую типизацию и обеспечивает самодокументированность кода.",
+        "url": "https://cyberleninka.ru/article/n/upravlenie-nastroykami-java-prilozheniy-s-ispolzovaniem-mehanizma-annotatsiy"
+    },
+    {
+        "name": "Автоформализация фрагментов Java-кода для UML-моделей",
+        "year": "2009",
+        "type": "ВАК",
+        "keys": [
+            "ФОРМАЛИЗАЦИЯ",
+            "ЧЕКЕР",
+            "БАЗОВЫЙ ПРОТОКОЛ"
+        ],
+        "annotation": "Рассмотрены проблемы формализации исходного кода Javа, в UМL-диаграммах. Описан трансформации кодового фрагмента на языке ]аvа в абстрагированное представление в нотации базовых протоколов с использованием инструмента Klocwork и системы специализированных чекеровI",
+        "url": "https://cyberleninka.ru/article/n/avtoformalizatsiya-fragmentov-java-koda-dlya-uml-modeley"
+    },
+    {
+        "name": "Экономия энергии посредством компрессии во встроенной среде Java",
+        "year": "2004",
+        "type": "",
+        "keys": [],
+        "annotation": "Экономия энергии и ресурсов — важный аспект проектирования встроенных цифровых систем. Сжатие — один из популярных механизмов для понижения требований систем к памяти. В этой статье рассматривается влияние сжатия на использование системных ресурсов встроенной виртуальной машиной Java (JVM), а также алгоритмы сжатия. Мы приводим краткий, «ознакомительный» перевод статьи; оригинальный текст доступен в Интернете по адресу http://www.cse.psu.edu/~mdl/paper/p081-chen.pdf.",
+        "url": "https://cyberleninka.ru/article/n/ekonomiya-energii-posredstvom-kompressii-vo-vstroennoy-srede-java"
+    },
+    {
+        "name": "Разработка и реализация расширения языка Java продукционными знаниями",
+        "year": "2008",
+        "type": "ScopusВАКRSCIESCI",
+        "keys": [],
+        "annotation": "Разработан язык представления знаний Java Expert как расширение базового языка Java. Реализован работающий прототип системы, приведены примеры, демонстрирующие возможности языка. Библиогр. 6 назв.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-i-realizatsiya-rasshireniya-yazyka-java-produktsionnymi-znaniyami"
+    },
+    {
+        "name": "Анализ производительности многопоточных программ, написанных на языках Java и Go",
+        "year": "2018",
+        "type": "",
+        "keys": [
+            "МНОГОЗАДАЧНОСТЬ",
+            "МНОГОПОТОЧНОСТЬ",
+            "ПОТОК",
+            "ГОРУТИНА",
+            "ПРОИЗВОДИТЕЛЬНОСТЬ"
+        ],
+        "annotation": "В статье рассматриваются подходы к разработке многопоточных программ на языках программирования Java и Go. Дается общая информация о многопоточности, приведены отличительные особенности реализации многопоточности на двух языках, проводится сравнение и анализ производительности программ с большим количеством потоков.",
+        "url": "https://cyberleninka.ru/article/n/analiz-proizvoditelnosti-mnogopotochnyh-programm-napisannyh-na-yazykah-java-i-go"
+    },
+    {
+        "name": "Функциональные требования к библиотеке управления настройками Java-приложений",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "ПРОГРАММИРОВАНИЕ",
+            "JAVA",
+            "БИБЛИОТЕКА",
+            "ФРЕЙМВОРК",
+            "АННОТАЦИИ",
+            "НАСТРОЙКИ"
+        ],
+        "annotation": "В статье рассматриваются общие и специальные требования к современной библиотеке управления настройками Java-приложений. Приводится краткое обоснование каждого требования.",
+        "url": "https://cyberleninka.ru/article/n/funktsionalnye-trebovaniya-k-biblioteke-upravleniya-nastroykami-java-prilozheniy"
+    },
+    {
+        "name": "Архитектура системы для параллельных вычислений ПАРУС-JAVA",
+        "year": "2004",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/arhitektura-sistemy-dlya-parallelnyh-vychisleniy-parus-java"
+    },
+    {
+        "name": "Annotations-driven configuration framework for Java applications",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "application configuration management",
+            "application settings management",
+            "framework",
+            "Java",
+            "open-source",
+            "options-util"
+        ],
+        "annotation": "Modern features of Java software platformallow developers to create a new generation ofapplication configuration frameworks with advancedfeatures, such as type-safety, easy extendability andself-documentation. This paper describes an earlyprototype implementation of such a framework,currently under development as an open-sourceproject.",
+        "url": "https://cyberleninka.ru/article/n/annotations-driven-configuration-framework-for-java-applications"
+    },
+    {
+        "name": "Comparing Oberon and Java by a Simple Data Structure",
+        "year": "1998",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "In this paper, we compare two computer languages: Oberon and Java. We have carefully tried to avoid any judging statement. Our goal is to show similarities and differences between them: both languages have syntactical differences but similar concepts. We give an overview and some details of the major language features and would like to encourage in particular educational institutions to do an own comparison. For that we include all necessary references to the literature. We illustrate our comparison by using a binary tree example.",
+        "url": "https://cyberleninka.ru/article/n/comparing-oberon-and-java-by-a-simple-data-structure"
+    },
+    {
+        "name": "Методика интеграции внешних математических библиотек с языком Java",
+        "year": "2010",
+        "type": "ВАК",
+        "keys": [
+            "ВЫСОКОПРОИЗВОДИТЕЛЬНЫЕ ВЫЧИСЛЕНИЯ",
+            "JAVA",
+            "LAPACK",
+            "MKL",
+            "ACML",
+            "HIGH PERFOMANCE COMPUTATIONS",
+            "HPC"
+        ],
+        "annotation": "Описывается методика подключения библиотек математических алгоритмов к программам, написанным на языке программирования Java. Методика основана на разделении программного кода на 3 уровня и размещении массивов во внешней по отношению к Java памяти. Продемонстрирована реализация трёхуровневой схемы на примере подключения пакета LAPACK и его аналогов (MKL и ACML). Показано, что библиотека MKL с ядром, оптимизированным для архитектуры Intel Core 2, способна обеспечить на 4-ядерном процессоре ускорение вычислений по сравнению с",
+        "url": "https://cyberleninka.ru/article/n/metodika-integratsii-vneshnih-matematicheskih-bibliotek-s-yazykom-java"
+    },
+    {
+        "name": "Рецензия на открытый онлайн курс «Java. Базовый курс»",
+        "year": "2017",
+        "type": "",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/retsenziya-na-otkrytyy-onlayn-kurs-java-bazovyy-kurs"
+    },
+    {
+        "name": "Анализ нововведений в объектно-ориентированном языке программирования Java",
+        "year": "2014",
+        "type": "",
+        "keys": [],
+        "annotation": "Проводится краткий анализ основных появившихся возможностей в объектно-ориентированном языке программирования Java8.",
+        "url": "https://cyberleninka.ru/article/n/analiz-novovvedeniy-v-obektno-orientirovannom-yazyke-programmirovaniya-java"
+    },
+    {
+        "name": "Автоматический рефакторинг Java-кода с использованием Stream API",
+        "year": "2019",
+        "type": "ВАК",
+        "keys": [
+            "РЕФАКТОРИНГ",
+            "ПРЕОБРАЗОВАНИЕ КОДА",
+            "REFACTORING",
+            "IDE",
+            "CODE TRANSFORMATION",
+            "INTELLIJ",
+            "STREAM API"
+        ],
+        "annotation": "Долгое время функциональное программирование на Java было невозможно. Однако в 8-й версии Java появились лямбда-выражения. Благодаря поддержке стандартных библиотечных классов (Stream, Optional и т. д.) на Java стало возможно описывать преобразования над данными в функциональном стиле. Java достаточно старый язык, на нем написано большое количество императивного кода. Для того чтобы воспользоваться преимуществами нового подхода, требуется выполнить нетривиальный рефакторинг, что в случае осуществления человеком может быть весьма утомительным, легко совершить ошибку. К счастью, для достаточно большого количества ситуаций данный рефакторинг можно безопасно осуществить автоматически. На основе IntelliJ Idea был разработан программный инструмент, который позволяет обнаружить места, где возможно автоматическое преобразование императивного кода в эквивалентный с использованием Stream API, а также автоматическое исправление, которое позволяет произвести замену. Рефакторинг пользуется средствами IntelliJ Idea для анализа Java-кода, а также интегрируется в саму IDE. Одним из основных критериев корректности работы алгоритма является безопасность данного преобразования. Пользователь не может доверять инструменту, если преобразование может изменять семантику кода. В данной статье рассматриваются различные ограничения, которые накладываются на шаблоны кода для того, чтобы преобразование без искажения семантики было возможно. Данный рефакторинг был протестирован на различных библиотеках для проверки сохранения семантики путем проверки результатов тестирования до и после применения рефакторинга. В статье не будет обсуждаться влияние использования Stream API на производительность приложения.",
+        "url": "https://cyberleninka.ru/article/n/avtomaticheskiy-refaktoring-java-koda-s-ispolzovaniem-stream-api"
+    },
+    {
+        "name": "Decreased social capital in marketing vegetables in East Java",
+        "year": "2019",
+        "type": "AGRIS",
+        "keys": [
+            "Social capital",
+            "vegetables",
+            "marketing",
+            "farmers"
+        ],
+        "annotation": "The research objective was to determine the decline in social capital in vegetable marketing in East Java. The method used in this study used a qualitative descriptive approach, namely in-depth interviews (in-depth interviews), participatory observation, and documentation. The results of the study concluded that there had been a decline in social capital in the distribution of vegetables in the eastern part of the region, which could be seen from the first one; there are farmers who no longer keep the agreement with the traders so that the traders have now not started to want to provide capital loans and provide seeds. Second, there are traders who deny the agreement by delaying payment, not paying the debt to the farmers.",
+        "url": "https://cyberleninka.ru/article/n/decreased-social-capital-in-marketing-vegetables-in-east-java"
+    },
+    {
+        "name": "The analysis of maize market integration in East Java",
+        "year": "2017",
+        "type": "AGRIS",
+        "keys": [
+            "Price",
+            "maize",
+            "price integration",
+            "market"
+        ],
+        "annotation": "An Uncontrollable Maize price fluctuation can harm farmers when the price changes in the level of consumer price and it is not followed at the level of the producers. This study used monthly prices data during 2009-2016 in East Java province. Methods of analysis used, are in the form of price variations and market integration analysis. The results of the prices variation analysis are maize prices that gained at the level of the producers, wholesalers, and consumers are low fluctuating, but the results of the market integration show that between the producer price and consumer price, between the producer price and the wholesale price, and between wholesale prices and consumer prices are integrated in the short term and are not integrated in the long term, this indicates that the price of maize markets information systems had not been running perfectly. So, the Government needs to fix the system to make the price information of maize can be well-integrated.",
+        "url": "https://cyberleninka.ru/article/n/the-analysis-of-maize-market-integration-in-east-java"
+    },
+    {
+        "name": "Сравнительный анализ моделей работы с данными в Java-приложениях",
+        "year": "2020",
+        "type": "ВАК",
+        "keys": [
+            "DBC",
+            "MYBATIS",
+            "JPA",
+            "HIBERNATE",
+            "ECLIPSELINK",
+            "OPENJPA"
+        ],
+        "annotation": "В этой статье рассматриваются современные подходы работы с базами данных в Java проектах. Рассмотрены преимущества и недостатки при работе с помощью низкоуровневой технологии JDBC. Представлен обзор спецификации JPA, являющейся стандартом отображения POJO объектов в реляционные базы данных. В работе дан обзор наиболее популярных JPA-реализаций: Hibernate, EclipseLink и OpenJPA. Также отмечены возможности ORM системы MyBatis, которая не реализует JPA, но является их альтернативой. В ходе работы предложен тестовый набор, сравнивающий производительность JPA-реализаций. Дано сравнение MyBatis и одной из JPA-реализаций на базе Hibernate. Представлены результаты и выводы проведенных тестов, дающие понимание, какие решения лучше подходят для разных типов ситуаций.",
+        "url": "https://cyberleninka.ru/article/n/sravnitelnyy-analiz-modeley-raboty-s-dannymi-v-java-prilozheniyah"
+    },
+    {
+        "name": "ВИРТУАЛЬНЫЕ ПОТОКИ – ЭВОЛЮЦИЯ ПАРАЛЛЕЛЬНОГО ПРОГРАММИРОВАНИЯ В ЯЗЫКЕ JAVA",
+        "year": "2021",
+        "type": "",
+        "keys": [
+            "поток",
+            "виртуальный поток",
+            "файбер",
+            "планировщик задач",
+            "Java",
+            "проект Loom",
+            "схема M:N.",
+            "Thread",
+            "virtual thread",
+            "fiber",
+            "task scheduler",
+            "Java",
+            "project Loom",
+            "M:N schema"
+        ],
+        "annotation": "Исторически сложилось, что написание параллельного кода является намного более сложным процессом, чем написание обычного последовательного кода. Для написания параллельных приложений на языке Java с самых ранних версий использовались потоки. Но со временем довольно сложные программы стали еще сложнее из-за того, что для обеспечения максимальной производительности пришлось применять подходы, которые позволили оптимизировать повторное использование потоков при этом сильно снизив удобство написания и читаемость кода. Появившийся в 2018 году проект Loom поставил своей задачей дать возможность разработчикам Java перестать использовать данные подходы, упростить разработку и при этом писать масштабируемый код. Для реализации этой задачи в Java Development Kit была добавлена концепция виртуальных потоков, более известных в научной литературе как файберы. В данной работе будет описана проблема, с которой столкнулись разработчики Java, рассмотрена текущая система абстракций параллельного программирования платформы и нововведения проекта Loom. В финальной части работы будет приведена апробация работы ранних сборок Java Development Kit, а также рассмотрены текущие ограничения архитектуры.",
+        "url": "https://cyberleninka.ru/article/n/virtualnye-potoki-evolyutsiya-parallelnogo-programmirovaniya-v-yazyke-java"
+    },
+    {
+        "name": "DEVELOPING OF THE E-GOVERNMENT SYSTEM BASED ON JAVA FOR ONLINE VOTING",
+        "year": "2017",
+        "type": "",
+        "keys": [
+            "СИСТЕМА ЕЛЕКТРОННОГО УРЯДУ НА БАЗі JAVA",
+            "СИСТЕМА ЭЛЕКТРОННОГО ПРАВИТЕЛЬСТВА НА БАЗЕ JAVA",
+            "JAVA-BASED E-GOVERNMENT SYSTEM",
+            "ОНЛАЙН-ГОЛОСУВАННЯ",
+            "ОНЛАЙН-ГОЛОСОВАНИЕ",
+            "ONLINE VOTING",
+            "КРАДіЖКА КОНФіДЕНЦіЙНОї іНФОРМАЦії",
+            "КРАЖА КОНФИДЕНЦИАЛЬНОЙ ИНФОРМАЦИИ",
+            "PRIVACY THEFT"
+        ],
+        "annotation": "Системи електронного уряду призначені для поліпшення рівня взаємодії уряду з громадськістю та поліпшення доступу до послуг, які надає уряд громадськості. Запропоновано систему електронного уряду на базі Java, яка дозволить уряду проводити онлайн-голосування. Це буде гарантувати, що люди голосують в зручних для них місці і час, не турбуючись про крадіжку свого голосу і конфіденційної інформації.Системы электронного правительства предназначены для улучшения уровня взаимодействия правительства с общественностью и улучшения доступа к услугам, которые предоставляет правительство общественности. Предложена система электронного правительства на базе Java, которая позволит правительству проводить онлайн-голосование. Это будет гарантировать, что люди голосуют в удобном для них месте и времени, не беспокоясь о краже своего голоса и конфиденциальной информации.The current article is focused on proposing a new electronic voting system that will assist the government in conducting the online voting for the elections. The system will be secure with the end to end encryption to ensure that no data theft occurs during the transfer. The key demerit of the system is the security from the end of the government. It has to be ensured that all the external threats are kept at bay when using the online voting system. The secondary research approach is considered to mine the information required to conduct the study and develop the system. Overall, it can be stated that the new system will allow the government and public to have improved voting experience if implemented successfully.",
+        "url": "https://cyberleninka.ru/article/n/developing-of-the-e-government-system-based-on-java-for-online-voting"
+    },
+    {
+        "name": "Jubula: инструмент для автоматического тестирования графического интерфейса Java-приложений",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "ТЕСТИРОВАНИЕ",
+            "АВТОМАТИЗАЦИЯ",
+            "ГРАФИЧЕСКИЙ ИНТЕРФЕЙС",
+            "GUI",
+            "JAVA"
+        ],
+        "annotation": "Данная статья рассказывает об опыте применения системы тестирования графического интерфейса Eclipse. В ней приводится перечень свойств, которыми должен обладать инструмент для проверки GUI, а также обзор нескольких подобных инструментов. Большая часть статьи посвящена устройству и особенностям Jubula, самой продвинутой и неординарной системы из кандидатов. Рассмотрены способы хранения и проведения тестов, отображение их результатов, а также возможности интеграции отладочной среды с другими средствами сопровождения программ. В конце приводится заключение, в каких случаях лучше использовать этот инструмент.",
+        "url": "https://cyberleninka.ru/article/n/jubula-instrument-dlya-avtomaticheskogo-testirovaniya-graficheskogo-interfeysa-java-prilozheniy"
+    },
+    {
+        "name": "Хранение данных XML через тонкое гранулярное отношение",
+        "year": "2009",
+        "type": "ВАК",
+        "keys": [
+            "ХРАНЕНИЕ ДАННЫХ XML",
+            "ТОЧНОЕ ОТНОШЕНИЕ",
+            "JAVA"
+        ],
+        "annotation": "Показано, что хранение XML в реляционной базе данных может обеспечить не только ввод XML осуществляемый через Java, для контроля и управления данными XML. Кроме того, возможно улучшение хранения данных XML через более точную степень детализации данных.",
+        "url": "https://cyberleninka.ru/article/n/hranenie-dannyh-xml-cherez-tonkoe-granulyarnoe-otnoshenie"
+    },
+    {
+        "name": "Процесс разработки программного обеспечения для Java смарт-карт",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "JAVA СМАРТ-КАРТЫ",
+            "АППЛЕТЫ",
+            "АППАРАТНАЯ ЗАЩИТА"
+        ],
+        "annotation": "Рассмотрен процесс разработки апплета для Java смарт-карты, исследованы возможности данного аппаратного средства защиты информации.",
+        "url": "https://cyberleninka.ru/article/n/protsess-razrabotki-programmnogo-obespecheniya-dlya-java-smart-kart"
+    },
+    {
+        "name": "Використання Renderscript на Android-пристроях",
+        "year": "2016",
+        "type": "",
+        "keys": [
+            "Android",
+            "Renderscript",
+            "Java",
+            "компілятори",
+            "мова програмування",
+            "Android",
+            "RenderScript",
+            "Java",
+            "compilers",
+            "programming language"
+        ],
+        "annotation": "Сьогодні більшість смартфонів і планшетів виробляються на базі Android. Основними причинами поширення цієї операційної системи полягають в наступному. Android підтримує велику кількість пристроїв від різних виробників. Android характеризується високою доступності коштів розробки. Інструментальні засоби розробки для Android безкоштовні, в той час як розробка, наприклад, iPhone (від компанії Apple) вимагає значних початкових інвестицій. Головні переваги портативних комп'ютерів наступному: розмір, тривалість роботи без підзарядки і, звичайно ж, багатофункціональність. Таким чином, ми повинні визнати, що майбутнє ПК в портативній, легкій та функціональній техніці таблетки, електронні книги, нетбуки і смартфони – і все це в основному працює на операційній системі Android.",
+        "url": "https://cyberleninka.ru/article/n/vikoristannya-renderscript-na-android-pristroyah"
+    },
+    {
+        "name": "Сопоставление реляционной модели данных и принципов объектно-ориентированного программирования для разработки информационно-вычислительных систем",
+        "year": "2013",
+        "type": "",
+        "keys": [
+            "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ",
+            "ПРОГРАММИРОВАНИЕ",
+            "ЯЗЫК JAVA",
+            "ПРЕОБРАЗОВАНИЕ"
+        ],
+        "annotation": "Использовался феномен полиморфизма, который поддерживает язык java. То есть во время компиляции программы фактический тип используемого объекта неизвестен, он загружается лишь на стадии выполнения программы. А значит, во время выполнения программы мы можем получить доступ ко всем методам класса (используя Java Reflection API), который фактически используется пользователем, и так как он точно будет являться наследником AbstractBean, то мы можем применять к нему методы базового класса, используя восходящее преобразование.",
+        "url": "https://cyberleninka.ru/article/n/sopostavlenie-relyatsionnoy-modeli-dannyh-i-printsipov-obektno-orientirovannogo-programmirovaniya-dlya-razrabotki-informatsionno"
+    },
+    {
+        "name": "Язык программирования Kotlin",
+        "year": "2020",
+        "type": "",
+        "keys": [
+            "ЯЗЫК ПРОГРАММИРОВАНИЯ",
+            "KOTLIN",
+            "JAVA",
+            "PROGRAMMING LANGUAGE"
+        ],
+        "annotation": "Данная статья посвящена языку программирования Kotlin. Рассмотрена история его появления. Отмечено, что ни один язык программирования не является универсальным, поэтому постоянно появляются новые языки программирования. Описаны основные возможности и характерные особенности языка Kotlin, выявлены его важные плюсы и минусы. Проведено сравнение языка Kotlin с языком программирования Java. Рассмотрена их совместимость и возможность совместного использования при написании приложений. Отмечена предпочтительность выбора языка программирования Kotlin для разработки приложений под Android.",
+        "url": "https://cyberleninka.ru/article/n/yazyk-programmirovaniya-kotlin-1"
+    },
+    {
+        "name": "БЫТЬ ИЛИ НЕ БЫТЬ. СЦЕНАРИИ",
+        "year": "2021",
+        "type": "",
+        "keys": [
+            "СКРИПТЫ",
+            "СЦЕНАРИИ",
+            "PYTHON",
+            "C#",
+            "JAVA",
+            "JAVASCRIPT",
+            "CMD"
+        ],
+        "annotation": "В статье раскрываются особенности работы с скриптовыми языками программирования, основные достоинства и недостатки. Даны рекомендации с примерами использования скриптов для решения различных задач. Предоставлено сравнение языков сценариев с традиционными языками программирования.",
+        "url": "https://cyberleninka.ru/article/n/byt-ili-ne-byt-stsenarii"
+    },
+    {
+        "name": "Использование различных представлений Java-программ для статического анализа",
+        "year": "2015",
+        "type": "ВАК",
+        "keys": [
+            "СТАТИЧЕСКИЙ АНАЛИЗ",
+            "JAVA",
+            "FINDBUGS",
+            "SVACE",
+            "STATIC ANALYSIS"
+        ],
+        "annotation": "При статическом анализе программ важную роль играет используемое представление программного кода. В статье рассматриваются различные варианты представления программ, которые строятся на различных этапах компиляции, и детекторы программных ошибок, работающие на этих представлениях",
+        "url": "https://cyberleninka.ru/article/n/ispolzovanie-razlichnyh-predstavleniy-java-programm-dlya-staticheskogo-analiza"
+    },
+    {
+        "name": "Java интерфейс для экспертных систем на основе технологии clips",
+        "year": "2009",
+        "type": "ВАК",
+        "keys": [
+            "РАЗРАБОТКА ЭКСПЕРТНЫХ СИСТЕМ",
+            "JAVA-ТЕХНОЛОГИИ",
+            "ИНТЕРФЕЙС",
+            "СТРАТЕГИИ РАЗРЕШЕНИЯ КОНФЛИКТОВ",
+            "THE DEVELOPMENT OF EXPERT SYSTEMS",
+            "JAVA-TECHNOLOGY INTERFACE",
+            "THE STRATEGY OF CONFLICT RESOLUTION"
+        ],
+        "annotation": "В статье рассматривается использование технологии CLIPS. Данная технология предусматривает возможность создания пользовательского интерфейса на основе JAVA интерфейса.",
+        "url": "https://cyberleninka.ru/article/n/java-interfeys-dlya-ekspertnyh-sistem-na-osnove-tehnologii-clips"
+    },
+    {
+        "name": "Java-технологии и компьютерное моделирование физических процессов для Internet",
+        "year": "1999",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "Статья посвящена вопросам создания Internet-совместимой версии учебника \"Законы движения\", предназначенной для использования в режиме удаленного обучения.",
+        "url": "https://cyberleninka.ru/article/n/java-tehnologii-i-kompyuternoe-modelirovanie-fizicheskih-protsessov-dlya-internet"
+    },
+    {
+        "name": "Реализация однократной аутентификации в web-портале на Java по модели Kerberos",
+        "year": "2005",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/realizatsiya-odnokratnoy-autentifikatsii-v-web-portale-na-java-po-modeli-kerberos"
+    },
+    {
+        "name": "Реализация алгоритмов группового управления на языке Java в среде ОС «Эльбрус»",
+        "year": "2016",
+        "type": "ВАК",
+        "keys": [
+            "МОДЕЛИРОВАНИЕ ДВИЖЕНИЯ",
+            "ПОИСК ПУТИ НА ГРАФЕ",
+            "МОДЕЛИРОВАНИЕ АЛГОРИТМОВ ГРУППОВОГО УПРАВЛЕНИЯ"
+        ],
+        "annotation": "Цель работы разработка программного комплекса для отладки и демонстрации задач управления движением групп роботов, а также наблюдения за группой роботов с использованием нескольких камер с использованием Java в среде «Эльбрус». Показана возможность использования вычислительных средств ряда «Эльбрус» в качестве вычислителей для задач управления и наблюдения за группой роботов.",
+        "url": "https://cyberleninka.ru/article/n/realizatsiya-algoritmov-gruppovogo-upravleniya-na-yazyke-java-v-srede-os-elbrus"
+    },
+    {
+        "name": "Разработка корректных Java Card-программ на основе автоматного подхода",
+        "year": "2008",
+        "type": "ВАК",
+        "keys": [
+            "PROGRAM VERIFICATION",
+            "JAVA CARD",
+            "AUTOMATA-BASED PROGRAMMING"
+        ],
+        "annotation": "В данной работе описываются результаты исследований, направленных на создание корректного Java Card-кода. При этом код генерируется из высокоуровневого описания на основе технологии автоматного программирования. Дополнительным достоинством подобного подхода является возможность генерации формальной спецификации приложения. Соответствие исходного или byte-кода спецификации может быть проверено различными верификаторами или средствами динамической или статической проверки.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-korrektnyh-java-card-programm-na-osnove-avtomatnogo-podhoda-1"
+    },
+    {
+        "name": "Обнаружение состояний гонки в java-программах на основе синхронизационных контрактов",
+        "year": "2012",
+        "type": "ВАК",
+        "keys": [
+            "МНОГОПОТОЧНОСТЬ",
+            "ПАРАЛЛЕЛЬНОЕ ПРОГРАММИРОВАНИЕ",
+            "АВТОМАТИЧЕСКОЕ ОБНАРУЖЕНИЕ ОШИБОК",
+            "AUTOMATIC BUGS DETECTION",
+            "СОСТОЯНИЕ ГОНКИ",
+            "DATA RACE",
+            "CONCURRENCY"
+        ],
+        "annotation": "Состояния гонки (data races) это несинхронизированные обращения к одному и тому же участку памяти разных потоков параллельной программы. Состояния гонки являются одними из самых трудно обнаруживаемых ошибок многопоточного программирования. Автоматический поиск гонок является предметом активных исследований в последние двадцать лет, однако, например, для Java-приложений на настоящий момент не существует полноценного программного средства (детектора гонок), применимого для промышленных приложений (сотни и тысячи классов). В статье предлагается идея динамического обнаружения гонок на основе синхронизационных контрактов. Последние помогают корректно исключать из области анализа произвольные части приложения, по той или иной причине не интересные с точки зрения поиска гонок (например код стандартных библиотек), делая процесс поиска гонок гибко управляемым. Это, в свою очередь, позволяет существенно понизить накладные расходы при поиске гонок без потери точности. В статье также представлена реализация этой идеи и апробация созданного инструмента.",
+        "url": "https://cyberleninka.ru/article/n/obnaruzhenie-sostoyaniy-gonki-v-java-programmah-na-osnove-sinhronizatsionnyh-kontraktov"
+    },
+    {
+        "name": "An interactive specializer based on partial evaluation for a Java subset",
+        "year": "2018",
+        "type": "ВАК",
+        "keys": [
+            "АНАЛИЗ ПРОГРАММ",
+            "PROGRAM ANALYSIS",
+            "ПРЕОБРАЗОВАНИЕ ПРОГРАММ",
+            "PROGRAM TRANSFORMATION",
+            "ИНТЕРАКТИВНАЯ СПЕЦИАЛИЗАЦИЯ ПРОГРАММ",
+            "INTERACTIVE PROGRAM SPECIALIZATION",
+            "ЧАСТИЧНЫЕ ВЫЧИСЛЕНИЯ",
+            "PARTIAL EVALUATION",
+            "ОБЪЕКТНО-ОРИЕНТИРОВАННЫЙ ЯЗЫК",
+            "OBJECT-ORIENTED LANGUAGE",
+            "СРЕДА РАЗРАБОТКИ ПРОГРАММ",
+            "INTEGRATED DEVELOPMENT ENVIRONMENT"
+        ],
+        "annotation": "Specialization is a program optimization approach that implies the use of a priori information about values of some variables. Specialization methods are being developed since 1970s (mixed computations, partial evaluation, supercompilation). However, it is surprising, that even after three decades, these promising methods have not been put into the wide programming practice. One may wonder: What is the reason? Our hypothesis is that the task of specialization requires much greater human involvement into the specialization process, the analysis of its results and conducting computer experiments than in the case of common program optimization in compilers. Hence, specializers should be embedded into integrated development environments (IDE) familiar to programmers and appropriate interactive tools should be developed. In this paper we provide a work-in-progress report on results of development of an interactive specializer based on partial evaluation for a subset of the Java programming language. The specializer has been implemented within the popular Eclipse IDE. Scenarios of the human-machine dialogue with the specializer and interactive tools to compose the specialization task and to control the process of specialization are under development. An example of application of the current version of the specializer is shown. The residual program runs several times faster than the source one.",
+        "url": "https://cyberleninka.ru/article/n/an-interactive-specializer-based-on-partial-evaluation-for-a-java-subset"
+    },
+    {
+        "name": "Реализация алгоритма дистанционной защиты линии на языке программирования java",
+        "year": "2019",
+        "type": "",
+        "keys": [
+            "РЕЛЕ СОПРОТИВЛЕНИЯ",
+            "ИНДУКТИВНОЕ СОПРОТИВЛЕНИЕ",
+            "АКТИВНОЕ СОПРОТИВЛЕНИЕ",
+            "ПАРАМЕТР СРАБАТЫВАНИЯ",
+            "КОРОТКОЕ ЗАМЫКАНИЕ",
+            "ОРТОГОНАЛЬНАЯ СОСТАВЛЯЮЩАЯ",
+            "КЛАСС",
+            "МЕТОД",
+            "ЭКЗЕМПЛЯР",
+            "RESISTANCE RELAY",
+            "INDUCTIVE RESISTANCE",
+            "ACTIVE RESISTANCE",
+            "RESPONSE PARAMETER",
+            "SHORT CIRCUIT",
+            "ORTHOGONAL COMPONENT",
+            "CLASS",
+            "METHOD",
+            "INSTANCE"
+        ],
+        "annotation": "В данной работе представлен алгоритм работы одной ступени дистанционной защиты линии, выполненной на микропроцессорной базе, с полигональной и круговой характеристиками на языке программирования Java. Анализ корректности работы рассматриваемой ступени дистанционной защиты линии с разными характеристиками срабатывания произведен при различных видах коротких замыканий. Для получения мгновенных значений токов и напряжений при коротких замыканиях была разработана модель защищаемой линии в программном комплексе PSCAD и сформирован COMTRADE-файл аварийного процесса. Для наглядного представления работы дистанционной защиты линии построены графики, отражающие условия срабатывания в зависимости от выбора характеристики срабатывания реле сопротивления.",
+        "url": "https://cyberleninka.ru/article/n/realizatsiya-algoritma-distantsionnoy-zaschity-linii-na-yazyke-programmirovaniya-java"
+    },
+    {
+        "name": "Исследование возможностей методики скрытого вложения цифрового водяного знака в class-файлы на виртуализированных платформах с отличающейся архитектурой",
+        "year": "2018",
+        "type": "ВАК",
+        "keys": [
+            "java",
+            "цифровой водяной знак",
+            "байт-код",
+            "виртуализация",
+            "java",
+            "digital watermark",
+            "byte code",
+            "virtualization"
+        ],
+        "annotation": "В данной работе авторы поднимают вопрос проверки работоспособности методики скрытого вложения цифрового водяного знака в байт-код java-класса при запуске на разных платформах с различной архитектурой. Производится вложение цифрового водяного знака без перекомпиляции class-файла и проверяется его работоспособность на виртуальных средах.",
+        "url": "https://cyberleninka.ru/article/n/issledovanie-vozmozhnostey-metodiki-skrytogo-vlozheniya-tsifrovogo-vodyanogo-znaka-v-class-fayly-na-virtualizirovannyh-platformah-s"
+    },
+    {
+        "name": "Актуальные проблемы преподавания технологий программирования в России",
+        "year": "2008",
+        "type": "ВАК",
+        "keys": [
+            "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ (ИТ)",
+            "JAVA",
+            ".NET",
+            "КОМПИЛЯТОРЫ",
+            "МЕТОДЫ ПРЕПОДАВАНИЯ ИТ"
+        ],
+        "annotation": "В статье анализируются актуальные научные и практические проблемы преподавания современных технологий программирования (и ИТ в целом) в России. Статья продолжает и развивает тематику доклада автора на всероссийской конференции по преподаванию ИТ (г. Тверь, 2007 г.).",
+        "url": "https://cyberleninka.ru/article/n/aktualnye-problemy-prepodavaniya-tehnologiy-programmirovaniya-v-rossii"
+    },
+    {
+        "name": "Алгоритм моделирования рабочих процессов в трубопроводах сложной пространственной конфигурации и его программная реализация",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "АЛГОРИТМ",
+            "СИСТЕМЫ ТРУБОПРОВОДОВ",
+            "АВТОМАТИЗАЦИЯ ВЫЧИСЛЕНИЙ",
+            "STAR-CD",
+            "JAVA"
+        ],
+        "annotation": "Современное программное обеспечение, используемое для проведения расчетов гидродинамики и тепломассопереноса, позволяет разрабатывать пользовательское программное обеспечение, помогающее автоматизировать процесс проведения численных расчетов. Авторами предложен термин \"виртуальный стенд\", который описывает алгоритм построения такого программного обеспечения и программный код. В данной статье изложен алгоритм для автоматизации процесса моделирования теплогидравлических процессов в системах трубопроводов сложной пространственной конфигурации, а также особенности процедуры создания соответствующего программного обеспечения в программном комплексе Star-CD 4.16 с применением языка программирования Java.",
+        "url": "https://cyberleninka.ru/article/n/algoritm-modelirovaniya-rabochih-protsessov-v-truboprovodah-slozhnoy-prostranstvennoy-konfiguratsii-i-ego-programmnaya-realizatsiya"
+    },
+    {
+        "name": "Методика создания и вложения цифрового водяного знака в исполняемые Java файлы на основе замен опкодов",
+        "year": "2017",
+        "type": "ВАК",
+        "keys": [
+            "ЦИФРОВОЙ ВОДЯНОЙ ЗНАК",
+            "БАЙТ-КОД JAVA",
+            "BYTECODE",
+            "ЗАЩИТА АВТОРСКИХ ПРАВ",
+            "ВЛОЖЕНИЕ",
+            "CLASS-ФАЙЛ",
+            "JAVA ПРОГРАММА",
+            "СТЕГАНОГРАФИЯ",
+            "ИСПОЛНЯЕМЫЕ ФАЙЛЫ",
+            "PORTABLE EXECUTABLE"
+        ],
+        "annotation": "Статья демонстрирует методику для вложения цифрового водяного знака в исполняемые файлы java для защиты авторского права владельца программы и возможности доказательства в суде прав на исходный код программы. Указаны плюсы использования цифровых водяных знаков в разрабатываемых программах. Приведены примеры действий злоумышленников при обнаружении лицензированной части кода в нелегальной программе. Рассматриваются плюсы данной методики, возможные недостатки. Произведен обзор случаев, когда необходимо использование цифровых водяных знаков в программе. Описаны критерии, предъявляемые к водяным знакам в java-программах, также основные свойства водяных знаков. Приведены примеры возможного поиска нелегальных программ в интернете с помощью программы работающей по данной методике. Данные водяные знаки не заметны пользователям. Процедура шифрования и дешифрования разделена на фазы и подробно описана по шагам. Приведены примеры возможной автоматизации процесса создания, шифрования, вложения и расшифровки с изъятием водяного знака из class-файлов java-программы. Обращено особое внимание на возможные проблемы с верификатором JVM при неправильном использовании типов переменных и синтаксиса языка. Легко шифруются, легко дешифруются. Водяной знак устойчив к изменению программы. Наличие программы производящей вложение водяного знака в class-файлы, не гарантирует, что злоумышленник, имеющий ту же программу, сможет извлечь водяной знак из программы. Сделан вывод по всему материалу статьи, даны рекомендации по использованию данной методики.",
+        "url": "https://cyberleninka.ru/article/n/metodika-sozdaniya-i-vlozheniya-tsifrovogo-vodyanogo-znaka-v-ispolnyaemye-java-fayly-na-osnove-zamen-opkodov"
+    },
+    {
+        "name": "Самые востребованные языки программирования",
+        "year": "2017",
+        "type": "",
+        "keys": [
+            "C++",
+            "PHP",
+            "JAVA",
+            "DEMANDED PROGRAMMING LANGUAGES",
+            "ВОСТРЕБОВАННЫЕ ЯЗЫКИ ПРОГРАММИРОВАНИЯ"
+        ],
+        "annotation": "Для того чтобы стать хорошим программистом необходимо хорошо разбираться в определенном языке программирования. В нашем веке очень много языков программирования, но по-настоящему популярны и широко востребованы только некоторые из них. В данной статье анализируется, какой язык программирования стоит изучать, чтобы быть востребованным программистом или IT-специалистом, приведен рейтинг языков программирования за 2016 год. Даны определения языков высокого и низкого уровней. Описаны 3 самых востребованных языка PHP, Java, C++.",
+        "url": "https://cyberleninka.ru/article/n/samye-vostrebovannye-yazyki-programmirovaniya"
+    },
+    {
+        "name": "Soa система хранения и поиска информации (платформа magnet)",
+        "year": "2008",
+        "type": "",
+        "keys": [
+            "JAVA-РЕАЛИЗАЦИЯ",
+            "SOA-СИСТЕМЫ ХРАНЕНИЯ И ПОИСКА",
+            "SQL-СЕРВЕРЫ"
+        ],
+        "annotation": "Рассматриваются преимущества Java реализации SOA системы хранения и поиска данных перед классическими SQL серверами на примере платформы MAGNET.",
+        "url": "https://cyberleninka.ru/article/n/soa-sistema-hraneniya-i-poiska-informatsii-platforma-magnet-1"
+    },
+    {
+        "name": "Разработка программы ведения полевой геологической документации",
+        "year": "2018",
+        "type": "ВАК",
+        "keys": [
+            "ПОЛЕВАЯ ГЕОЛОГИЧЕСКАЯ ДОКУМЕНТАЦИЯ",
+            "РАЗРАБОТКА ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ",
+            "JAVA",
+            "JAVASCRIPT"
+        ],
+        "annotation": "Полевая документация в большинстве случаев ведется в бумажном виде с использованием карандаша, в редких случаях используется лицензионное программное обеспечение. Это связано с высокой стоимостью оборудования и основными финансовыми вложениями именно в оборудование и технологии бурения, а не средства документирования. В работе предлагается описание построения универсальной программы ведения полевой геологической документации, которая решает существенную часть задач своих конкурентов в части ведения полевого журнала. В работе описаны основные требования к программе ведения геологической документации, сформулированы ее ограничения, предложены решения по каждой из ключевых задач разработки, приведены принципиальные фрагменты программного кода на Java. Описаны подходы к формированию текстового описания для каждого интервала с использованием скриптового языка JavaScript, в том числе с использованием данных по подынтервалам.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-programmy-vedeniya-polevoy-geologicheskoy-dokumentatsii"
+    },
+    {
+        "name": "Разработка программного обеспечения для получения пользовательских веб-запросов",
+        "year": "2014",
+        "type": "",
+        "keys": [
+            "РАЗРАБОТКА",
+            "СПОСОБ",
+            "ПЕРЕХВАТ",
+            "ПОЛЬЗОВАТЕЛЬ",
+            "ВЕБ-ЗАПРОС",
+            "JAVA",
+            "NETTYIO"
+        ],
+        "annotation": "В статье приведен анализ существующих наиболее распространенных методов получения пользовательских запросов. Рассмотрены основные способы получения запросов пользователей к веб-ресурсам, выделены их недостатки.",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-programmnogo-obespecheniya-dlya-polucheniya-polzovatelskih-veb-zaprosov"
+    },
+    {
+        "name": "Применение автоматного подхода для создания корректных Java Card-приложений",
+        "year": "2008",
+        "type": "ВАК",
+        "keys": [
+            "ВЕРИФИКАЦИЯ ПРОГРАММ",
+            "JAVA CARD",
+            "АВТОМАТНОЕ ПРОГРАММИРОВАНИЕ",
+            "PROGRAM VERIFICATION",
+            "AUTOMATA-BASED PROGRAMMING"
+        ],
+        "annotation": "В статье предлагается подход, повышающий надежность процесса разработки Java Card-апплетов. Формулируются особенности проектирования апплетов при применении автоматного подхода, предлагается расширенная утверждениями модель для описания функциональности, генератор кода с заглушками и инструмент для автоматизации тестирования полученных апплетов.",
+        "url": "https://cyberleninka.ru/article/n/primenenie-avtomatnogo-podhoda-dlya-sozdaniya-korrektnyh-java-card-prilozheniy"
+    },
+    {
+        "name": "Особенности реализации архитектурного шаблона Thin web client на платформе Java ee 6",
+        "year": "2010",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/osobennosti-realizatsii-arhitekturnogo-shablona-thin-web-client-na-platforme-java-ee-6"
+    },
+    {
+        "name": "Инструмент обратного проектирования и рефакторинга программного обеспечения написанного на языке Java",
+        "year": "2013",
+        "type": "ВАК",
+        "keys": [
+            "ARTIFACT REPOSITORY",
+            "SOFTWARE ARCHITECTURE",
+            "UML"
+        ],
+        "annotation": "В статье рассматриваются особенности реализации CASE-инструмента для моделирования свободно распространяемого программного обеспечения разработанного на языке Java. Данный инструмент предназначен для моделирования и визуализации такого программного обеспечения с помощью языка UML, верификации и рефакторинга его архитектуры. В качестве анализируемого исходного кода для такого CASE-инструмента предполагается использовать репозитории кода с унифицированной идентификацией распространяемых программных библиотек. В статье описывается контекст, в котором предполагается работа данного инструмента. Рассмотрены типовые ошибки в проектировании логической и физической структуры программного обеспечения, методы верификации и рефакторинга для исправления таких ошибок проектирования.",
+        "url": "https://cyberleninka.ru/article/n/instrument-obratnogo-proektirovaniya-i-refaktoringa-programmnogo-obespecheniya-napisannogo-na-yazyke-java"
+    },
+    {
+        "name": "Методика отладки на основе воспроизведения трассы исполнения приложения на языке Java",
+        "year": "2010",
+        "type": "ВАК",
+        "keys": [
+            "МЕТОДИКА ОТЛАДКИ JAVA-ПРИЛОЖЕНИЙ",
+            "ВОСПРОИЗВЕДЕНИЕ ТРАССЫ ИСПОЛНЕНИЯ",
+            "ЛОГИРОВАНИЕ",
+            "ВОССТАНОВЛЕНИЕ СОСТОЯНИЯ СИСТЕМЫ"
+        ],
+        "annotation": "Представлен интегрированный подход к отладке приложений, который позволяет сохранять поток управления приложения и восстановления состояния системы для последующего анализа дефектов в окружении разработчика",
+        "url": "https://cyberleninka.ru/article/n/metodika-otladki-na-osnove-vosproizvedeniya-trassy-ispolneniya-prilozheniya-na-yazyke-java"
+    },
+    {
+        "name": "State Machine расширение языка Java для эффективной реализации автоматов",
+        "year": "2005",
+        "type": "ScopusВАК",
+        "keys": [],
+        "annotation": "В данной статье предлагается новый язык объектно-ориентированного программирования State Machine, являющийся расширением языка программирования Java. В язык вводится ряд синтаксических конструкций, позволяющих программировать с использованием понятий автомат, состояние и событие. Для обработки новых синтаксических конструкций разработан препроцессор, преобразующий код на языке State Machine в код на языке Java. При этом новые синтаксические конструкции преобразуются в код на языке Java в соответствии с предложенным ранее авторами паттерном State Machine.",
+        "url": "https://cyberleninka.ru/article/n/state-machine-rasshirenie-yazyka-java-dlya-effektivnoy-realizatsii-avtomatov"
+    },
+    {
+        "name": "Выбор Java сервера приложений для информационных систем уровня предприятия",
+        "year": "2005",
+        "type": "ВАК",
+        "keys": [],
+        "annotation": "",
+        "url": "https://cyberleninka.ru/article/n/vybor-java-servera-prilozheniy-dlya-informatsionnyh-sistem-urovnya-predpriyatiya"
+    },
+    {
+        "name": "Выбор API для работы с файлами Microsoft Office на языке Java",
+        "year": "2015",
+        "type": "",
+        "keys": [
+            "Apache POI",
+            "Docx4j",
+            "Aspose",
+            "Microsoft Office",
+            "Apache POI",
+            "Docx4j",
+            "Aspose",
+            "Microsoft Office"
+        ],
+        "annotation": "В статье рассмотрены основные API для работы с файлам Microsoft Office: Apache POI, Docx4j, Aspose.",
+        "url": "https://cyberleninka.ru/article/n/vybor-api-dlya-raboty-s-faylami-microsoft-office-na-yazyke-java"
+    },
+    {
+        "name": "Analysis of «On-farm» level efficiency on broiler chicken commodity in West Java",
+        "year": "2018",
+        "type": "AGRIS",
+        "keys": [
+            "Technical efficiency",
+            "breeding",
+            "poultry",
+            "broiler",
+            "stochastic frontier."
+        ],
+        "annotation": "The rapid downstream industry with poultry consumption which is so large makes the upstream industries such as animal feed, breeding, and medicine in the country has a promising business opportunity for companies engaged in animal husbandry. However, in fact, people's breeding which is more numerous than large manufacturers are now starting to get rid of because they do not use modern technology and investment constraints. The purpose of this research is to analyze the technical efficiency of the broiler business and to identify the factors that influence the technical efficiency of broiler business in West Java province. To answer these problems, the researcher conducts a direct survey to the location of breeders and uses stochastic frontier analysis for data processing. The result of analysis by using Stochastic Frontier Cobb-Douglass regression method with decreasing of MLE function shows that some inputs which have real effects to broiler production are seed, feed, and also husk. Moreover, it is also seen that average mean efficiency of farmers in West Java is about 0.64 which means it is not efficient yet. It is also the impact of technical inefficiency factors such as age, education level, and breeding experience.",
+        "url": "https://cyberleninka.ru/article/n/analysis-of-on-farm-level-efficiency-on-broiler-chicken-commodity-in-west-java"
+    },
+    {
+        "name": "Моделирование и создание виртуальных моделей объектов железнодорожного пути на языке Java",
+        "year": "2020",
+        "type": "",
+        "keys": [
+            "JAVA",
+            "APACHE MAVEN",
+            "ПОЛИГОН",
+            "ПРАВИЛО",
+            "JACKSON",
+            "SPRING FRAMEWORK",
+            "POLYGON",
+            "RULE"
+        ],
+        "annotation": "В области управления железнодорожными составами большие происходит постепенное планомерное снижение доли участия человека. В то же время последовательность действий в данной отрасли при обнаружении неисправностей и дальнейшие действия имеют строго определенный порядок. В статье указывается основной подход к описанию полигона данных и правил работы с железнодорожными объектами. Результат работы реализован на языке Java с использованием фреймворка Spring.",
+        "url": "https://cyberleninka.ru/article/n/modelirovanie-i-sozdanie-virtualnyh-modeley-obektov-zheleznodorozhnogo-puti-na-yazyke-java"
+    },
+    {
+        "name": "РАЗРАБОТКА СПЕЦИАЛИЗИРОВАННОЙ БИБЛИОТЕКИ ДЛЯ РЕАЛИЗАЦИИ СЕРВЕРНОГО ПРИЛОЖЕНИЯ НА ЯЗЫКЕ JAVA",
+        "year": "2018",
+        "type": "ВАК",
+        "keys": [
+            "РАЗРАБОТКА БИБЛИОТЕКИ КЛАССОВ",
+            "СЕРВЕРНОЕ ПРИЛОЖЕНИЕ",
+            "МОНИТОРИНГ",
+            "ЛОГИРОВАНИЕ"
+        ],
+        "annotation": "Дано общее описание технологии разработки крупных проектов, показано значение прототипирования в целях минимизации потерь при использовании библиотек. Сокращение времени разработки прототипа и удешевление процесса разработки происходит с сохранением возможности доработки и замены любой составляющей без вмешательства в остальные части продукта без ограничения имеющегося функционала. Разработанная библиотека предназначена для написания серверного приложения с любыми требованиями в максимально короткие сроки. Рассмотрен состав библиотеки, представляющей собой набор сервисов и утилит, позволяющих организовать распределенную нагрузку, работу с файлами и базами данных, организовать взаимодействие различных частей приложения, мониторинг и логирование работы приложения, сериализацию и десериализацию объектов. Приведен пример работы с данной библиотекой, с этой целью создано серверное приложение, приведен алгоритм его работы. Структура разработанного серверного приложения позволяет использовать функции логирования и серверных метрик на всех этапах всеми функциональными частями. Приведены условия работы программы, порядок установки и настройки программного продукта, предложен конфигурационный файл, содержащий необходимые настройки. Рассмотренные последовательность и порядок настройки позволяют наиболее полно воспользоваться предлагаемыми возможностями библиотеки классов",
+        "url": "https://cyberleninka.ru/article/n/razrabotka-spetsializirovannoy-biblioteki-dlya-realizatsii-servernogo-prilozheniya-na-yazyke-java"
+    },
+    {
+        "name": "Язык программирования Ajl: автоматическое динамическое распараллеливание для платформы JVM",
+        "year": "2016",
+        "type": "ВАК",
+        "keys": [
+            "JAVA PROGRAMMING LANGUAGE",
+            "AUTOMATIC DYNAMIC PARALLELIZATION",
+            "FIBERS",
+            "PARALLEL COMPUTATIONS",
+            "PROGRAMMING LANGUAGES IMPLEMENTATION",
+            "АВТОМАТИЧЕСКОЕ ДИНАМИЧЕСКОЕ РАСПАРАЛЛЕЛИВАНИЕ",
+            "ПАРАЛЛЕЛЬНЫЕ ВЫЧИСЛЕНИЯ",
+            "РЕАЛИЗАЦИЯ ЯЗЫКОВ~ПРОГРАММИРОВАНИЯ",
+            "СТРУИ",
+            "ЯЗЫК JAVA"
+        ],
+        "annotation": "Нынешнее состояние программного обеспечения и аппаратных средств широкого применения настойчиво требует развития инструментов параллельного программирования на основе языка Java. В ИПС им. А.К. Айламазяна РАН выполнена реализация языка Ajl, являющегося расширением языка Java и предназначенного для разработки параллельных программ на основе использования вычислительной модели «самотрансформация вычисляемой сети». В данной публикации рассматриваются различные аспекты выполненной работы — от синтаксиса и семантики конструкций языка и методов разработки транслятора до реализации базовых понятий использованной модели вычислений. Описывается экспериментальное исследование выполненной реализации и обсуждаются его результаты. В заключение приводится краткий обзор близких работ",
+        "url": "https://cyberleninka.ru/article/n/yazyk-programmirovaniya-ajl-avtomaticheskoe-dinamicheskoe-rasparallelivanie-dlya-platformy-jvm"
+    }
+]
