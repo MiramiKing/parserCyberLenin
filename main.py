@@ -49,11 +49,18 @@ class Parser():
             lis = ul.find_all('li')
             for li in lis:
                 pages.append('https://cyberleninka.ru' + li.find('a')['href'])
+            break
 
         for page in pages:
             html = await self.connect2.get_html(page)
             soup = self.bs(html)
+            authors = []
             name = soup.find('i', {'itemprop': 'headline'}).text
+            authors_block = soup.find_all('meta', {'name': "citation_author"})
+            if authors_block:
+                authors = [author['content'].strip() for author in authors_block]
+            text_block = soup.find('div',{'class':'ocr'})
+            text = text_block.text.strip()
             labels = soup.find('div', {'class': 'labels'}).text.replace('\n', '', 1).split('\n')
             year = labels[0]
             type = labels[1]
@@ -65,15 +72,17 @@ class Parser():
             dat = {'name': name,
                    'year': year,
                    'type': type,
+                   'authors': authors,
                    'keys': keys,
                    'annotation': annotation,
+                   'text':text,
                    'url': page
                    }
             articles.append(dat)
             print(dat)
         print(pages)
-        with io.open('data.json','w',encoding='utf-8') as f:
-            json.dump(articles, f, indent=4,ensure_ascii=False)
+        with io.open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(articles, f, indent=4, ensure_ascii=False)
 
     async def close(self):
         await self.connect.close()
@@ -83,7 +92,7 @@ class Parser():
 async def start():
     parser = Parser()
     await parser.setup()
-    count = await parser.getCategoryCount(category='java')
+    count = await parser.getCategoryCount(category='интероперабельность')
     print(count)
     await parser.saveData(int(count))
 
