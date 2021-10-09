@@ -40,7 +40,7 @@ class Connection():
             writer = csv.writer(f)
             writer.writerow((data['name'], data['url']))
 
-    def write_json(self, data, filename='data.json'):
+    def write_json(self, data, filename='- интероперабельность.json'):
         with open(filename, 'w') as f:
             json.dump(data, f, indent=4)
 
@@ -68,13 +68,17 @@ class Connectrequest(object):
         try:
             if self.session is None:
                 self.session = aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=50, verify_ssl=False),
-                                                     cookies=cookies, trust_env=True)
+                                                     cookies=cookies)
 
             self.headers = {'User-Agent': str(random.choice(self.head))}
             if header:
                 self.headers.update(header)
 
-            async with self.session.get(url, headers=self.headers, timeout=30,
+            proxies = select_proxies(site)
+            if proxies:
+                proxy_ = random.choice(proxies)
+                proxy = 'http://{}'.format(proxy_)
+            async with self.session.get(url, headers=self.headers, proxy=proxy, timeout=100,
                                         ssl=self.sslcontext) as response:
                 results = response.text()
                 return await results
