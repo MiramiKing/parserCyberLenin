@@ -81,7 +81,7 @@ class Parser():
                            }
                     self.articles.append(dat)
             except Exception as e:
-                asyncio.sleep()
+                await asyncio.sleep(20)
                 print(e)
 
 
@@ -233,7 +233,7 @@ class Work():
         print("Сохраняем результат...")
         persons_ = list(set(persons))
         try:
-            with io.open(r"person - " + str_time + ".json", 'w',
+            with io.open(r"result/persons/person - " + str_time + ".json", 'w',
                          encoding='utf-8') as f:  # Выводим результат в Json файл
                 json.dump(list(set(persons)), f, indent=4, ensure_ascii=False)
             return True
