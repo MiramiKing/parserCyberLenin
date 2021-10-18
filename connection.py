@@ -7,6 +7,7 @@ import requests
 import aiohttp
 from proxy import select_proxies
 
+
 class Connection():
     def __init__(self):
         self.head = [
@@ -44,6 +45,7 @@ class Connection():
         with open(filename, 'w') as f:
             json.dump(data, f, indent=4)
 
+
 class Connectrequest(object):
     def __init__(self):
         self.session = None
@@ -78,13 +80,38 @@ class Connectrequest(object):
             if proxies:
                 proxy_ = random.choice(proxies)
                 proxy = 'http://{}'.format(proxy_)
-            async with self.session.get(url, headers=self.headers, proxy=proxy, timeout=100,
+            async with self.session.get(url, headers=self.headers, timeout=100,proxy=proxy,
                                         ssl=self.sslcontext) as response:
                 results = response.text()
                 return await results
         except Exception as e:
             print(url)
-            #traceback.print_exc()
+            # traceback.print_exc()
+            print(e)
+            # await self.close()
+
+    async def post(self, url, cookies=None, header: dict = None, site=None, data=None):
+        try:
+            if self.session is None:
+                self.session = aiohttp.ClientSession(connector=aiohttp.TCPConnector(limit=50, verify_ssl=False),
+                                                     cookies=cookies, trust_env=True)
+
+            self.headers = {'User-Agent': str(random.choice(self.head))}
+            if header:
+                self.headers.update(header)
+            self.headers['Content-Type'] = 'application/json'
+            proxies = select_proxies(site)
+            if proxies:
+                proxy_ = random.choice(proxies)
+                proxy = 'http://{}'.format(proxy_)
+            async with self.session.post(url, headers=self.headers, timeout=30,
+                                         ssl=self.sslcontext,proxy=proxy, data=data) as response:
+                results = response.text()
+                self.headers.clear()
+                return await results
+        except Exception as e:
+            print(url)
+            # traceback.print_exc()
             print(e)
             # await self.close()
 

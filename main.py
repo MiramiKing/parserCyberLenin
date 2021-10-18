@@ -62,9 +62,10 @@ class Parser():
                         authors = [author['content'].strip() for author in authors_block]
                     text_block = soup.find('div', {'class': 'ocr'})
                     text = text_block.text.strip()
-                    labels = soup.find('div', {'class': 'labels'}).text.replace('\n', '', 1).split('\n')
-                    year = labels[0]
-                    type = labels[1]
+                    labels = soup.find('div', {'class': 'labels'}).find_all('div', {'class': 'label'})
+                    labels_text = [l.text for l in labels]
+                    year = labels_text[0]
+                    type = ','.join(labels_text[1:]) if len(labels) > 1 else ''
                     key_holder = soup.find('i', {'itemprop': 'keywords'})
                     key = key_holder.find_all('span') if key_holder else []
                     keys = [k.text.strip() for k in key]
@@ -84,9 +85,6 @@ class Parser():
                 await asyncio.sleep(20)
                 print(e)
 
-
-
-
     async def getCategoryCount(self, category: str):
         url = f'https://cyberleninka.ru/search?q={category}'
         self.cat = category
@@ -96,6 +94,21 @@ class Parser():
         ul = soup.find('ul', {'class': 'paginator'})
         count = ul.find_all('li')[-1].find('a').text
         return count
+
+    async def getCategoryCountPost(self, category, additional: dict = None):
+        self.cat = category
+        url = 'https://cyberleninka.ru/api/search'
+        data = {"mode": "articles", "q": category, "size": 10, "from": 0}
+        if additional:
+            for k, v in additional.items():
+                data[k] = v
+        data = json.dumps(data,ensure_ascii=False)
+        print(data)
+        dat =await self.connect2.post(url=url, data=data)
+
+        res = json.loads(dat)
+        count = res['found']
+        return count, res
 
     async def saveData(self, count: int):
 
@@ -113,13 +126,32 @@ class Parser():
 
         pages_part = await split_list(pages, 10)
         tasks = []
-        sm = asyncio.Semaphore(10)
+        sm = asyncio.Semaphore(25)
         print("Обработка статей")
         for part in pages_part:
             task = asyncio.ensure_future(self.parseArticle(part, sm))
             tasks.append(task)
         await asyncio.gather(*tasks)
 
+        with io.open(r"result/data/ - " + self.cat + ".json", 'w', encoding='utf-8') as f:
+            json.dump(self.articles, f, indent=4, ensure_ascii=False)
+        print("Пасринг завершен")
+
+    async def saveData_2(self, count: int, res):
+
+        pages = []
+        for art in res["articles"]:
+            url = 'https://cyberleninka.ru' + art["link"]
+            pages.append(url)
+
+        pages_part = await split_list(pages, 1)
+        tasks = []
+        sm = asyncio.Semaphore(25)
+        print("Обработка статей")
+        for part in pages_part:
+            task = asyncio.ensure_future(self.parseArticle(part, sm))
+            tasks.append(task)
+        await asyncio.gather(*tasks)
 
         with io.open(r"result/data/ - " + self.cat + ".json", 'w', encoding='utf-8') as f:
             json.dump(self.articles, f, indent=4, ensure_ascii=False)
@@ -146,17 +178,49 @@ async def start():
     work = Work()
     parser = Parser()
     await parser.setup()
-    cat = input("Введите название темы статей: ")
-    count = await parser.getCategoryCount(category=cat)
+    params = {}
+    categrory = {
+        1: {"name": 'ВАК', "id": 8},
+        2: {"name": 'ARGIS', "id": 12},
+        3: {"name": 'Scopus', "id": 2},
+        4: {"name": 'RSCI', "id": 22},
+        5: {"name": 'ESCI', "id": 21},
+        6: {"name": 'WOS', "id": 1},
+        7: {"name": 'zbMATH', "id": 24},
+    }
+
+    cat = input("Введите тему статей: ")
+    years = input(
+        "Введите период в годах рассматриваемых статей через пробел или оставьте пустым поле, чтобы поиск был за текущий год: ")
+    if years:
+        try:
+            years_from, years_to = years.split(' ')
+            params["year_from"] = int(years_from)
+            params["year_to"] = int(years_to)
+        except:
+            params["year_from"] = int(years)
+
+    print('Выберите начную базу или оставьте поле пустым: ')
+    for k in categrory.keys():
+        print(f'{k} - {categrory[k]["name"]}')
+    base = input()
+    if base:
+        base_id = categrory[int(base)]["id"]
+        params["catalogs"] = [base_id]
+    articles = input("Введите количество рассматриваемых статей, по умолчанию 100: ")
+    if not articles:
+        articles = 100
+    params["size"] = int(articles)
+    count, res = await parser.getCategoryCountPost(category=cat,additional=params)
     print(f"Количество страниц в поисковике КиберЛеники - {count} ")
-    await parser.saveData(int(count))
+    await parser.saveData_2(int(count), res)
     await parser.close()
 
     data = parser.articles
 
     made_list = await split_list(data, 20)
     tasks = []
-    sm = asyncio.Semaphore(20)
+    sm = asyncio.Semaphore(10)
     print("Обработка статей")
     for part in made_list:
         task = asyncio.ensure_future(workWithArticles(part, work, sm))
